@@ -4,7 +4,7 @@ defmodule IDeviceDb.MixProject do
   def project do
     [
       app: :idevice_db,
-      descriptios: "A database of Apple devices",
+      description: "A database of Apple devices",
       version: version(),
       elixir: "~> 1.15",
       elixirc_paths: elixirc_paths(Mix.env()),
