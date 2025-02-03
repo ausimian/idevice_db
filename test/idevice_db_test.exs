@@ -1,5 +1,6 @@
 defmodule IDeviceDbTest do
   use ExUnit.Case
+  doctest IDeviceDb
 
   test "can fetch all the devices" do
     [_|_] = IDeviceDb.all_devices()
