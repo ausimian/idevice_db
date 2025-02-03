@@ -3,7 +3,7 @@ defmodule IDeviceDbTest do
   doctest IDeviceDb
 
   test "can fetch all the devices" do
-    [_|_] = IDeviceDb.all_devices()
+    [_ | _] = IDeviceDb.all_devices()
   end
 
   test "can fetch a specific model" do

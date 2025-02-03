@@ -15,22 +15,23 @@ defmodule IDeviceDb do
   @doc false
   @spec init() :: :ok
   def init do
-
     all_devices =
       :idevice_db
       |> :code.priv_dir()
       |> Path.join("devices.json")
       |> File.read!()
       |> Jason.decode!(keys: :atoms)
+
     :persistent_term.put({__MODULE__, :all_devices}, all_devices)
 
     devices_by_model =
       :persistent_term.get({__MODULE__, :all_devices})
       |> Enum.reduce(%{}, fn %{models: models} = device, acc ->
-         Enum.reduce(models, acc, fn model, acc ->
-           Map.put(acc, model, device)
-         end)
+        Enum.reduce(models, acc, fn model, acc ->
+          Map.put(acc, model, device)
+        end)
       end)
+
     :persistent_term.put({__MODULE__, :devices_by_model}, devices_by_model)
 
     identifiers =
@@ -38,6 +39,7 @@ defmodule IDeviceDb do
       |> Enum.reduce(%{}, fn device, acc ->
         Map.put_new(acc, device.identifier, Map.take(device, [:generation, :internal_name]))
       end)
+
     :persistent_term.put({__MODULE__, :identifiers}, identifiers)
   end
 
@@ -61,5 +63,4 @@ defmodule IDeviceDb do
 
   defp devices_by_model, do: :persistent_term.get({__MODULE__, :devices_by_model})
   defp identifiers, do: :persistent_term.get({__MODULE__, :identifiers})
-
 end
