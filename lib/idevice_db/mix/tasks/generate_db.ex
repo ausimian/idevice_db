@@ -1,7 +1,10 @@
 defmodule Mix.Tasks.GenerateDb do
-  @moduledoc false
+  @moduledoc "Regenerate the device database from the Apple Wiki"
+  @shortdoc "Regenerate the device database"
   use Mix.Task
 
+  @doc false
+  @spec run(any()) :: :ok
   def run(_args) do
     Application.ensure_all_started(:req)
 
