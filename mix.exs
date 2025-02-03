@@ -7,6 +7,7 @@ defmodule IDeviceDb.MixProject do
       descriptios: "A database of Apple devices",
       version: version(),
       elixir: "~> 1.15",
+      elixirc_paths: elixirc_paths(Mix.env()),
       start_permanent: Mix.env() == :prod,
       deps: deps(),
       aliases: aliases(),
@@ -15,6 +16,9 @@ defmodule IDeviceDb.MixProject do
       test_coverage: [ignore_modules: [Mix.Tasks.GenerateDb]]
     ]
   end
+
+  defp elixirc_paths(:prod), do: ["lib/idevice_db.ex"]
+  defp elixirc_paths(_), do: ["lib"]
 
   # Run "mix help compile.app" to learn about applications.
   def application do
