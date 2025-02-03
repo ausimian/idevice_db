@@ -2,7 +2,7 @@
 
 [![Hex](https://img.shields.io/hexpm/v/idevice_db.svg)](https://hex.pm/packages/idevice_db)
 [![Docs](https://img.shields.io/badge/hex-docs-lightgreen.svg)](https://hexdocs.pm/idevice_db/)
-[![License](https://img.shields.io/hexpm/l/idevice_db.svg)](https://github.com/ausimian/idevice_db/blob/master/LICENSE.md)
+[![License](https://img.shields.io/hexpm/l/idevice_db.svg)](https://github.com/ausimian/idevice_db/blob/main/LICENSE.md)
 ![github actions badge](https://github.com/ausimian/idevice_db/actions/workflows/build.yaml/badge.svg)
 
 A database of Apple devices.
@@ -24,7 +24,7 @@ available in memory for the lifetime of the application.
       models: ["MWHG2"],
       generation: "iPhone 11 Pro Max",
       internal_name: "D431AP",
-      storage
+      storage: "64 GB"
     }
 
 ## Generating the data
