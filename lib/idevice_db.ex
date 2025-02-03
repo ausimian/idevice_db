@@ -19,7 +19,7 @@ defmodule IDeviceDb do
     all_devices =
       :idevice_db
       |> :code.priv_dir()
-      |> Path.join("iphones.json")
+      |> Path.join("devices.json")
       |> File.read!()
       |> Jason.decode!(keys: :atoms)
     :persistent_term.put({__MODULE__, :all_devices}, all_devices)

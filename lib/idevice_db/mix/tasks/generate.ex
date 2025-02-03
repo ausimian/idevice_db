@@ -1,4 +1,4 @@
-defmodule Mix.Tasks.Generate do
+defmodule Mix.Tasks.GenerateDb do
   @moduledoc false
   use Mix.Task
 

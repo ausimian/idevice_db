@@ -11,6 +11,7 @@ defmodule IDeviceDb.MixProject do
       deps: deps(),
       package: package(),
       docs: docs(),
+      test_coverage: [ignore_modules: [Mix.Tasks.GenerateDb]]
     ]
   end
 
