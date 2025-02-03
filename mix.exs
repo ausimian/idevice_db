@@ -9,6 +9,7 @@ defmodule IDeviceDb.MixProject do
       elixir: "~> 1.15",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
+      aliases: aliases(),
       package: package(),
       docs: docs(),
       test_coverage: [ignore_modules: [Mix.Tasks.GenerateDb]]
@@ -27,6 +28,12 @@ defmodule IDeviceDb.MixProject do
       {:floki, "~> 0.37", only: [:dev, :test], runtime: false},
       {:ex_doc, "~> 0.36", only: :dev, runtime: false},
       {:jason, "~> 1.4"}
+    ]
+  end
+
+  defp aliases do
+    [
+      compile: ["format --check-formatted", "compile --warnings-as-errors"]
     ]
   end
 
