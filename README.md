@@ -39,7 +39,7 @@ by adding `idevice_db` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:idevice_db, "~> 0.1.0"}
+    {:idevice_db, "~> 1.0.0"}
   ]
 end
 ```
