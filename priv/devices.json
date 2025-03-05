@@ -11178,5 +11178,83 @@
     ],
     "internal_name": "D94AP",
     "storage": "1 TB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPhone17,5",
+    "generation": "iPhone 16e",
+    "models": [
+      "MD0E4",
+      "MD1R4",
+      "MD1G4",
+      "MD2C4"
+    ],
+    "internal_name": "V59AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPhone17,5",
+    "generation": "iPhone 16e",
+    "models": [
+      "MD0G4",
+      "MD1W4",
+      "MD1J4",
+      "MD2E4"
+    ],
+    "internal_name": "V59AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPhone17,5",
+    "generation": "iPhone 16e",
+    "models": [
+      "MD0Q4",
+      "MD274",
+      "MD1P4",
+      "MD2G4"
+    ],
+    "internal_name": "V59AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone17,5",
+    "generation": "iPhone 16e",
+    "models": [
+      "MD0D4",
+      "MD1Q4",
+      "MD1F4",
+      "MD2A4"
+    ],
+    "internal_name": "V59AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone17,5",
+    "generation": "iPhone 16e",
+    "models": [
+      "MD0F4",
+      "MD1T4",
+      "MD1H4",
+      "MD2D4"
+    ],
+    "internal_name": "V59AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone17,5",
+    "generation": "iPhone 16e",
+    "models": [
+      "MD0J4",
+      "MD1X4",
+      "MD1L4",
+      "MD2F4"
+    ],
+    "internal_name": "V59AP",
+    "storage": "512 GB"
   }
 ]
