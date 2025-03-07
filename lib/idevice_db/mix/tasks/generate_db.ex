@@ -18,30 +18,40 @@ defmodule Mix.Tasks.GenerateDb do
           |> List.first()
           |> Floki.children()
 
-        [_, {"section", _, [{"table", _, [{"tbody", _, table_rows}]}]}] =
-          content
-          |> Floki.children()
-          |> Enum.drop(1)
-          |> Enum.chunk_every(2)
-          |> Enum.find(fn
-            [{"h2", _, [{"span", _, _}, {"span", attrs, _}]}, {"section", _, _}] ->
-              Enum.any?(attrs, &match?({"id", "iPhone"}, &1))
-
-            _ ->
-              false
-          end)
-
         json =
-          table_rows
-          |> Enum.drop(1)
-          |> group_by_generation()
-          |> Enum.flat_map(& &1)
-          |> Enum.map(&to_map/1)
+          ["iPhone", "iPad", "iPad_Air", "iPad_Pro", "iPad_mini"]
+          |> Enum.flat_map(&get_devices(content, &1))
           |> Jason.encode!(pretty: true)
 
         File.mkdir_p!("priv")
         File.write!("priv/devices.json", json)
     end
+  end
+
+  defp get_devices(content, type) do
+    get_table_rows(content, type)
+    |> Enum.drop(1)
+    |> group_by_generation()
+    |> Enum.flat_map(& &1)
+    |> Enum.map(&to_map/1)
+    |> Enum.reject(&match?(%{models: []}, &1))
+  end
+
+  defp get_table_rows(content, span_id) do
+    [_, {"section", _, [{"table", _, [{"tbody", _, table_rows}]} | _]}] =
+      content
+      |> Floki.children()
+      |> Enum.drop(1)
+      |> Enum.chunk_every(2)
+      |> Enum.find(fn
+        [{"h2", _, [{"span", _, _}, {"span", attrs, _}]}, {"section", _, _}] ->
+          Enum.any?(attrs, &match?({"id", ^span_id}, &1))
+
+        _ ->
+          false
+      end)
+
+    table_rows
   end
 
   defp to_map(elems) do
@@ -53,9 +63,10 @@ defmodule Mix.Tasks.GenerateDb do
       {internal_name, _},
       {identifier, _},
       {finish, _},
-      {storage, _},
-      {models, _}
+      {storage, _} | maybe_models
     ] = elems
+
+    models = List.first(maybe_models, {"", 0}) |> elem(0)
 
     %{
       generation: generation,

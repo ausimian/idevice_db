@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.0 - 2025-05-07
+
+- Added iPads
+
 ## 1.0.1 - 2025-05-03
 
 - Added iPhone16E models

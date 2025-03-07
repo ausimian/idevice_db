@@ -32,6 +32,22 @@ defmodule IDeviceDb do
       |> Path.join("devices.json")
       |> File.read!()
       |> Jason.decode!(keys: :atoms)
+      |> Enum.map(fn
+        %{generation: "iPhone" <> _} = device ->
+          Map.put(device, :family, :iPhone)
+
+        %{generation: "iPad Air" <> _} = device ->
+          Map.put(device, :family, :iPadAir)
+
+        %{generation: "iPad Pro" <> _} = device ->
+          Map.put(device, :family, :iPadPro)
+
+        %{generation: "iPad mini" <> _} = device ->
+          Map.put(device, :family, :iPadMini)
+
+        %{generation: "iPad" <> _} = device ->
+          Map.put(device, :family, :iPad)
+      end)
 
     :persistent_term.put(@all_devices, all_devices)
 
@@ -97,7 +113,8 @@ defmodule IDeviceDb do
           generation: "iPhone",
           models: ["MA501"],
           internal_name: "M68AP",
-          storage: "4 GB"
+          storage: "4 GB",
+          family: :iPhone
         }
       ]
   """
@@ -116,7 +133,8 @@ defmodule IDeviceDb do
         generation: "iPhone 8",
         models: ["MX132"],
         internal_name: "D20AP",
-        storage: "128 GB"
+        storage: "128 GB",
+        family: :iPhone
       }
   """
   @spec find_by_model(String.t()) :: map() | nil
