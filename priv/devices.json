@@ -11256,5 +11256,8019 @@
     ],
     "internal_name": "V59AP",
     "storage": "512 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad1,1",
+    "generation": "iPad",
+    "models": [
+      "MB292"
+    ],
+    "internal_name": "K48AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad1,1",
+    "generation": "iPad",
+    "models": [
+      "MB293"
+    ],
+    "internal_name": "K48AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad1,1",
+    "generation": "iPad",
+    "models": [
+      "MB294"
+    ],
+    "internal_name": "K48AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad1,1",
+    "generation": "iPad",
+    "models": [
+      "MC349"
+    ],
+    "internal_name": "K48AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad1,1",
+    "generation": "iPad",
+    "models": [
+      "MC496"
+    ],
+    "internal_name": "K48AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad1,1",
+    "generation": "iPad",
+    "models": [
+      "MC497"
+    ],
+    "internal_name": "K48AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,1",
+    "generation": "iPad 2",
+    "models": [
+      "MC769"
+    ],
+    "internal_name": "K93AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,1",
+    "generation": "iPad 2",
+    "models": [
+      "MC770"
+    ],
+    "internal_name": "K93AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,1",
+    "generation": "iPad 2",
+    "models": [
+      "MC916"
+    ],
+    "internal_name": "K93AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,1",
+    "generation": "iPad 2",
+    "models": [
+      "MC979",
+      "MD002"
+    ],
+    "internal_name": "K93AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,1",
+    "generation": "iPad 2",
+    "models": [
+      "MC980",
+      "MC997"
+    ],
+    "internal_name": "K93AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,1",
+    "generation": "iPad 2",
+    "models": [
+      "MC981"
+    ],
+    "internal_name": "K93AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,2",
+    "generation": "iPad 2",
+    "models": [
+      "MC773",
+      "MC957"
+    ],
+    "internal_name": "K94AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,2",
+    "generation": "iPad 2",
+    "models": [
+      "MC774"
+    ],
+    "internal_name": "K94AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,2",
+    "generation": "iPad 2",
+    "models": [
+      "MC775"
+    ],
+    "internal_name": "K94AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,2",
+    "generation": "iPad 2",
+    "models": [
+      "MC982",
+      "MC992"
+    ],
+    "internal_name": "K94AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,2",
+    "generation": "iPad 2",
+    "models": [
+      "MC983"
+    ],
+    "internal_name": "K94AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,2",
+    "generation": "iPad 2",
+    "models": [
+      "MC984"
+    ],
+    "internal_name": "K94AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,3",
+    "generation": "iPad 2",
+    "models": [
+      "MC755"
+    ],
+    "internal_name": "K95AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,3",
+    "generation": "iPad 2",
+    "models": [
+      "MC763"
+    ],
+    "internal_name": "K95AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,3",
+    "generation": "iPad 2",
+    "models": [
+      "MC764"
+    ],
+    "internal_name": "K95AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,3",
+    "generation": "iPad 2",
+    "models": [
+      "MC985"
+    ],
+    "internal_name": "K95AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,3",
+    "generation": "iPad 2",
+    "models": [
+      "MC986"
+    ],
+    "internal_name": "K95AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,3",
+    "generation": "iPad 2",
+    "models": [
+      "MC987"
+    ],
+    "internal_name": "K95AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad2,4",
+    "generation": "iPad 2",
+    "models": [
+      "MC954",
+      "MC960",
+      "MC988"
+    ],
+    "internal_name": "K93AAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad2,4",
+    "generation": "iPad 2",
+    "models": [
+      "MC989"
+    ],
+    "internal_name": "K93AAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,1",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MC705",
+      "MD333"
+    ],
+    "internal_name": "J1AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,1",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MC706",
+      "MD334"
+    ],
+    "internal_name": "J1AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,1",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MC707",
+      "MD335"
+    ],
+    "internal_name": "J1AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,1",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD328",
+      "MD336"
+    ],
+    "internal_name": "J1AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,1",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD329",
+      "MD337"
+    ],
+    "internal_name": "J1AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,1",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD330",
+      "MD338"
+    ],
+    "internal_name": "J1AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,2",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MC733"
+    ],
+    "internal_name": "J2AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,2",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MC744"
+    ],
+    "internal_name": "J2AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,2",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MC756"
+    ],
+    "internal_name": "J2AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,2",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD363"
+    ],
+    "internal_name": "J2AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,2",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD364"
+    ],
+    "internal_name": "J2AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,2",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD365"
+    ],
+    "internal_name": "J2AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,3",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD366",
+      "MD404"
+    ],
+    "internal_name": "J2AAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,3",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD367",
+      "MD405"
+    ],
+    "internal_name": "J2AAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,3",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD368",
+      "MD406"
+    ],
+    "internal_name": "J2AAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,3",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD369",
+      "MD407"
+    ],
+    "internal_name": "J2AAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,3",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD370",
+      "MD408"
+    ],
+    "internal_name": "J2AAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,3",
+    "generation": "iPad (3rd generation)",
+    "models": [
+      "MD371",
+      "MD409"
+    ],
+    "internal_name": "J2AAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,4",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD510"
+    ],
+    "internal_name": "P101AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,4",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD511"
+    ],
+    "internal_name": "P101AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,4",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD512"
+    ],
+    "internal_name": "P101AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,4",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "ME392"
+    ],
+    "internal_name": "P101AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,4",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD513"
+    ],
+    "internal_name": "P101AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,4",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD514"
+    ],
+    "internal_name": "P101AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,4",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD515"
+    ],
+    "internal_name": "P101AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,4",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "ME393"
+    ],
+    "internal_name": "P101AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,5",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD516",
+      "MG932"
+    ],
+    "internal_name": "P102AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,5",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD517"
+    ],
+    "internal_name": "P102AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,5",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD518",
+      "MD944"
+    ],
+    "internal_name": "P102AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,5",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "ME400"
+    ],
+    "internal_name": "P102AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,5",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD519",
+      "MG942"
+    ],
+    "internal_name": "P102AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,5",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD520"
+    ],
+    "internal_name": "P102AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,5",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD521"
+    ],
+    "internal_name": "P102AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,5",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "ME401"
+    ],
+    "internal_name": "P102AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,6",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD522",
+      "ME195"
+    ],
+    "internal_name": "P103AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,6",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD523",
+      "ME196"
+    ],
+    "internal_name": "P103AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,6",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD524",
+      "ME197"
+    ],
+    "internal_name": "P103AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPad3,6",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "ME406",
+      "ME410"
+    ],
+    "internal_name": "P103AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,6",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD525",
+      "ME198"
+    ],
+    "internal_name": "P103AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,6",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD526",
+      "ME199"
+    ],
+    "internal_name": "P103AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,6",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "MD527",
+      "ME200"
+    ],
+    "internal_name": "P103AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPad3,6",
+    "generation": "iPad (4th generation)",
+    "models": [
+      "ME407",
+      "ME411"
+    ],
+    "internal_name": "P103AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,11",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MPGT2"
+    ],
+    "internal_name": "J71sAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,11",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MPGW2"
+    ],
+    "internal_name": "J71sAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,11",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MP2G2"
+    ],
+    "internal_name": "J71sAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,11",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MP2J2"
+    ],
+    "internal_name": "J71sAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,11",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MP2F2"
+    ],
+    "internal_name": "J71sAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,11",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MP2H2"
+    ],
+    "internal_name": "J71sAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,12",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MPG42",
+      "MPGA2"
+    ],
+    "internal_name": "J72sAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,12",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MPG52",
+      "MPGC2"
+    ],
+    "internal_name": "J72sAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,12",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MP1L2",
+      "MP252"
+    ],
+    "internal_name": "J72sAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,12",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MP272",
+      "MP2E2"
+    ],
+    "internal_name": "J72sAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,12",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MP1J2",
+      "MP242"
+    ],
+    "internal_name": "J72sAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,12",
+    "generation": "iPad (5th generation)",
+    "models": [
+      "MP262",
+      "MP2D2"
+    ],
+    "internal_name": "J72sAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,5",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MRJN2"
+    ],
+    "internal_name": "J71bAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,5",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MRJP2"
+    ],
+    "internal_name": "J71bAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,5",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MR7G2"
+    ],
+    "internal_name": "J71bAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,5",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MR7K2"
+    ],
+    "internal_name": "J71bAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,5",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MR7F2"
+    ],
+    "internal_name": "J71bAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,5",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MR7J2"
+    ],
+    "internal_name": "J71bAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,6",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MRM52"
+    ],
+    "internal_name": "J72bAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,6",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MRM82"
+    ],
+    "internal_name": "J72bAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,6",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MR702"
+    ],
+    "internal_name": "J72bAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,6",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MR7D2"
+    ],
+    "internal_name": "J72bAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,6",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MR6Y2"
+    ],
+    "internal_name": "J72bAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,6",
+    "generation": "iPad (6th generation)",
+    "models": [
+      "MR7C2"
+    ],
+    "internal_name": "J72bAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,11",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW762"
+    ],
+    "internal_name": "J171AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,11",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW792"
+    ],
+    "internal_name": "J171AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,11",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW752"
+    ],
+    "internal_name": "J171AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,11",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW782"
+    ],
+    "internal_name": "J171AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,11",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW742"
+    ],
+    "internal_name": "J171AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,11",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW772"
+    ],
+    "internal_name": "J171AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,12",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW6D2",
+      "MW6R2",
+      "MW6Y2"
+    ],
+    "internal_name": "J172AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,12",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW6G2",
+      "MW6V2",
+      "MW722"
+    ],
+    "internal_name": "J172AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,12",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW6C2",
+      "MW6Q2",
+      "MW6X2"
+    ],
+    "internal_name": "J172AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,12",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW6F2",
+      "MW6U2",
+      "MW712"
+    ],
+    "internal_name": "J172AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,12",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW6A2",
+      "MW6P2",
+      "MW6W2"
+    ],
+    "internal_name": "J172AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,12",
+    "generation": "iPad (7th generation)",
+    "models": [
+      "MW6E2",
+      "MW6T2",
+      "MW702"
+    ],
+    "internal_name": "J172AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,6",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYLC2"
+    ],
+    "internal_name": "J171aAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,6",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYLF2"
+    ],
+    "internal_name": "J171aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,6",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYLA2"
+    ],
+    "internal_name": "J171aAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,6",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYLE2"
+    ],
+    "internal_name": "J171aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,6",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYL92"
+    ],
+    "internal_name": "J171aAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,6",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYLD2"
+    ],
+    "internal_name": "J171aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,7",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYMK2",
+      "MYN62"
+    ],
+    "internal_name": "J172aAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,7",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYMN2",
+      "MYN92"
+    ],
+    "internal_name": "J172aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,7",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYMJ2",
+      "MYN52"
+    ],
+    "internal_name": "J172aAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,7",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYMM2",
+      "MYN82"
+    ],
+    "internal_name": "J172aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,7",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYMH2",
+      "MYN32"
+    ],
+    "internal_name": "J172aAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,7",
+    "generation": "iPad (8th generation)",
+    "models": [
+      "MYML2",
+      "MYN72"
+    ],
+    "internal_name": "J172aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad12,1",
+    "generation": "iPad (9th generation)",
+    "models": [
+      "MK2L3"
+    ],
+    "internal_name": "J181AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad12,1",
+    "generation": "iPad (9th generation)",
+    "models": [
+      "MK2P3"
+    ],
+    "internal_name": "J181AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad12,1",
+    "generation": "iPad (9th generation)",
+    "models": [
+      "MK2K3"
+    ],
+    "internal_name": "J181AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad12,1",
+    "generation": "iPad (9th generation)",
+    "models": [
+      "MK2N3"
+    ],
+    "internal_name": "J181AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad12,2",
+    "generation": "iPad (9th generation)",
+    "models": [
+      "MK493",
+      "MK673"
+    ],
+    "internal_name": "J182AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad12,2",
+    "generation": "iPad (9th generation)",
+    "models": [
+      "MK4H3",
+      "MK6A3"
+    ],
+    "internal_name": "J182AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad12,2",
+    "generation": "iPad (9th generation)",
+    "models": [
+      "MK473",
+      "MK663"
+    ],
+    "internal_name": "J182AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad12,2",
+    "generation": "iPad (9th generation)",
+    "models": [
+      "MK4E3",
+      "MK693"
+    ],
+    "internal_name": "J182AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,18",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MPQ03",
+      "MCM74"
+    ],
+    "internal_name": "J271AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,18",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MPQ83",
+      "MCMD4"
+    ],
+    "internal_name": "J271AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,18",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MPQ33",
+      "MCMC4"
+    ],
+    "internal_name": "J271AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,18",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MPQC3",
+      "MCMH4"
+    ],
+    "internal_name": "J271AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,18",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MPQ13",
+      "MCM84"
+    ],
+    "internal_name": "J271AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,18",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MPQ93",
+      "MCMF4"
+    ],
+    "internal_name": "J271AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad13,18",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MPQ23",
+      "MCM94"
+    ],
+    "internal_name": "J271AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad13,18",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MPQA3",
+      "MCMG4"
+    ],
+    "internal_name": "J271AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MQ6J3",
+      "MQ6X3",
+      "MCMJ4"
+    ],
+    "internal_name": "J272AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MQ6T3",
+      "MQ763",
+      "MCMN4"
+    ],
+    "internal_name": "J272AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MQ6M3",
+      "MQ713",
+      "MCMH4"
+    ],
+    "internal_name": "J272AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MQ6W3",
+      "MQ793",
+      "MCMR4"
+    ],
+    "internal_name": "J272AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MQ6K3",
+      "MQ6Y3",
+      "MCMK4"
+    ],
+    "internal_name": "J272AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MQ6U3",
+      "MQ773",
+      "MCMP4"
+    ],
+    "internal_name": "J272AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MQ6L3",
+      "MQ703",
+      "MCML4"
+    ],
+    "internal_name": "J272AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MQ6V3",
+      "MQ783",
+      "MCMQ4"
+    ],
+    "internal_name": "J272AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MUQY3"
+    ],
+    "internal_name": "J272AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MUU53"
+    ],
+    "internal_name": "J272AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MUU33"
+    ],
+    "internal_name": "J272AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MUU83"
+    ],
+    "internal_name": "J272AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MUU03"
+    ],
+    "internal_name": "J272AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MUU63"
+    ],
+    "internal_name": "J272AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MUU13"
+    ],
+    "internal_name": "J272AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad13,19",
+    "generation": "iPad (10th generation)",
+    "models": [
+      "MUU73"
+    ],
+    "internal_name": "J272AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD3Y4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD4G4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD4Q4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD4E4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD4P4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD5C4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD4A4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD4H4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD4Y4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD4D4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD4J4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad15,7",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD5A4"
+    ],
+    "internal_name": "J481AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7F4",
+      "MD7U4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7K4",
+      "MD7Y4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7P4",
+      "MD8D4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7J4",
+      "MD7X4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7N4",
+      "MD8C4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7T4",
+      "MD8G4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7G4",
+      "MD7V4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7L4",
+      "MDAJ4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7Q4",
+      "MD8E4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7H4",
+      "MD7W4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7M4",
+      "MD8A4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Yellow",
+    "identifier": "iPad15,8",
+    "generation": "iPad (A16)",
+    "models": [
+      "MD7R4",
+      "MD8F4"
+    ],
+    "internal_name": "J482AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,1",
+    "generation": "iPad Air",
+    "models": [
+      "MD788"
+    ],
+    "internal_name": "J71AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,1",
+    "generation": "iPad Air",
+    "models": [
+      "MD789"
+    ],
+    "internal_name": "J71AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,1",
+    "generation": "iPad Air",
+    "models": [
+      "MD790"
+    ],
+    "internal_name": "J71AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,1",
+    "generation": "iPad Air",
+    "models": [
+      "ME906"
+    ],
+    "internal_name": "J71AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,1",
+    "generation": "iPad Air",
+    "models": [
+      "MD785"
+    ],
+    "internal_name": "J71AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,1",
+    "generation": "iPad Air",
+    "models": [
+      "MD786"
+    ],
+    "internal_name": "J71AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,1",
+    "generation": "iPad Air",
+    "models": [
+      "MD787"
+    ],
+    "internal_name": "J71AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,1",
+    "generation": "iPad Air",
+    "models": [
+      "ME898"
+    ],
+    "internal_name": "J71AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,2",
+    "generation": "iPad Air",
+    "models": [
+      "MD794",
+      "ME997",
+      "ME999",
+      "MF021",
+      "MF502"
+    ],
+    "internal_name": "J72AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,2",
+    "generation": "iPad Air",
+    "models": [
+      "MD795",
+      "MF025",
+      "MF527",
+      "MF529",
+      "MF532"
+    ],
+    "internal_name": "J72AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,2",
+    "generation": "iPad Air",
+    "models": [
+      "MD796",
+      "MF012",
+      "MF013",
+      "MF027",
+      "MF539"
+    ],
+    "internal_name": "J72AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,2",
+    "generation": "iPad Air",
+    "models": [
+      "ME988",
+      "MF018",
+      "MF019",
+      "MF029",
+      "MF563"
+    ],
+    "internal_name": "J72AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,2",
+    "generation": "iPad Air",
+    "models": [
+      "MD791",
+      "ME991",
+      "ME993",
+      "MF020",
+      "MF496"
+    ],
+    "internal_name": "J72AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,2",
+    "generation": "iPad Air",
+    "models": [
+      "MD792",
+      "MF003",
+      "MF004",
+      "MF024",
+      "MF520"
+    ],
+    "internal_name": "J72AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,2",
+    "generation": "iPad Air",
+    "models": [
+      "MD793",
+      "MF009",
+      "MF010",
+      "MF026",
+      "MF534"
+    ],
+    "internal_name": "J72AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,2",
+    "generation": "iPad Air",
+    "models": [
+      "ME987",
+      "MF015",
+      "MF016",
+      "MF028",
+      "MF558"
+    ],
+    "internal_name": "J72AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,3",
+    "generation": "iPad Air",
+    "models": [
+      "MF230"
+    ],
+    "internal_name": "J73AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,3",
+    "generation": "iPad Air",
+    "models": [
+      "MF233"
+    ],
+    "internal_name": "J73AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,3",
+    "generation": "iPad Air",
+    "models": [
+      "MF234"
+    ],
+    "internal_name": "J73AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,3",
+    "generation": "iPad Air",
+    "models": [
+      "MF236"
+    ],
+    "internal_name": "J73AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,3",
+    "generation": "iPad Air",
+    "models": [
+      "MD797"
+    ],
+    "internal_name": "J73AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,3",
+    "generation": "iPad Air",
+    "models": [
+      "MD798"
+    ],
+    "internal_name": "J73AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,3",
+    "generation": "iPad Air",
+    "models": [
+      "MD799"
+    ],
+    "internal_name": "J73AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,3",
+    "generation": "iPad Air",
+    "models": [
+      "MF235"
+    ],
+    "internal_name": "J73AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH0W2"
+    ],
+    "internal_name": "J81AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MNV72"
+    ],
+    "internal_name": "J81AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH182"
+    ],
+    "internal_name": "J81AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH1J2"
+    ],
+    "internal_name": "J81AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MGLW2"
+    ],
+    "internal_name": "J81AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MNV62"
+    ],
+    "internal_name": "J81AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MGKM2"
+    ],
+    "internal_name": "J81AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MGTY2"
+    ],
+    "internal_name": "J81AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MGL12"
+    ],
+    "internal_name": "J81AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MNV22"
+    ],
+    "internal_name": "J81AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MGKL2"
+    ],
+    "internal_name": "J81AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,3",
+    "generation": "iPad Air 2",
+    "models": [
+      "MGTX2"
+    ],
+    "internal_name": "J81AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH2W2",
+      "MH1C2"
+    ],
+    "internal_name": "J82AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MNW32"
+    ],
+    "internal_name": "J82AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH2P2",
+      "MH172",
+      "MHWP2"
+    ],
+    "internal_name": "J82AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH332",
+      "MH2D2",
+      "MH1G2"
+    ],
+    "internal_name": "J82AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH2V2",
+      "MGHC2"
+    ],
+    "internal_name": "J82AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MNW22"
+    ],
+    "internal_name": "J82AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH2N2",
+      "MGHY2",
+      "MGK02"
+    ],
+    "internal_name": "J82AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH322",
+      "MGWM2"
+    ],
+    "internal_name": "J82AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MGGX2",
+      "MH2U2",
+      "MGH62"
+    ],
+    "internal_name": "J82AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MNW12"
+    ],
+    "internal_name": "J82AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH2M2",
+      "MGHX2",
+      "MGJY2"
+    ],
+    "internal_name": "J82AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,4",
+    "generation": "iPad Air 2",
+    "models": [
+      "MH312",
+      "MGWL2"
+    ],
+    "internal_name": "J82AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,3",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MUUL2"
+    ],
+    "internal_name": "J217AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,3",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MUUT2"
+    ],
+    "internal_name": "J217AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,3",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MUUK2"
+    ],
+    "internal_name": "J217AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,3",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MUUR2"
+    ],
+    "internal_name": "J217AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,3",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MUUJ2"
+    ],
+    "internal_name": "J217AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,3",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MUUQ2"
+    ],
+    "internal_name": "J217AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,4",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MV172",
+      "MV0F2"
+    ],
+    "internal_name": "J218AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,4",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MV1G2",
+      "MV0Q2"
+    ],
+    "internal_name": "J218AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,4",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MV162",
+      "MV0E2"
+    ],
+    "internal_name": "J218AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,4",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MV1F2",
+      "MV0P2"
+    ],
+    "internal_name": "J218AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,4",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MV152",
+      "MV0D2"
+    ],
+    "internal_name": "J218AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,4",
+    "generation": "iPad Air (3rd generation)",
+    "models": [
+      "MV1D2",
+      "MV0N2"
+    ],
+    "internal_name": "J218AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYFP2"
+    ],
+    "internal_name": "J307AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYFX2"
+    ],
+    "internal_name": "J307AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYFN2"
+    ],
+    "internal_name": "J307AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYFW2"
+    ],
+    "internal_name": "J307AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYFM2"
+    ],
+    "internal_name": "J307AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYFT2"
+    ],
+    "internal_name": "J307AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Green",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYFR2"
+    ],
+    "internal_name": "J307AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Green",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYG02"
+    ],
+    "internal_name": "J307AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Sky Blue",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYFQ2"
+    ],
+    "internal_name": "J307AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Sky Blue",
+    "identifier": "iPad13,1",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYFY2"
+    ],
+    "internal_name": "J307AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYGY2",
+      "MYJ02"
+    ],
+    "internal_name": "J308AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYH52",
+      "MYJ52"
+    ],
+    "internal_name": "J308AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYGX2",
+      "MYHY2"
+    ],
+    "internal_name": "J308AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYH42",
+      "MYJ42"
+    ],
+    "internal_name": "J308AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYGW2",
+      "MYHX2"
+    ],
+    "internal_name": "J308AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYH22",
+      "MYJ32"
+    ],
+    "internal_name": "J308AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Green",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYH12",
+      "MYJ22"
+    ],
+    "internal_name": "J308AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Green",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYH72",
+      "MYJ72"
+    ],
+    "internal_name": "J308AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Sky Blue",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYH02",
+      "MYJ12"
+    ],
+    "internal_name": "J308AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Sky Blue",
+    "identifier": "iPad13,2",
+    "generation": "iPad Air (4th generation)",
+    "models": [
+      "MYH62",
+      "MYJ62"
+    ],
+    "internal_name": "J308AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM9C3"
+    ],
+    "internal_name": "J407AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM9L3"
+    ],
+    "internal_name": "J407AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM9D3"
+    ],
+    "internal_name": "J407AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM9M3"
+    ],
+    "internal_name": "J407AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MME23"
+    ],
+    "internal_name": "J407AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MME63"
+    ],
+    "internal_name": "J407AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM9E3"
+    ],
+    "internal_name": "J407AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM9N3"
+    ],
+    "internal_name": "J407AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM9F3"
+    ],
+    "internal_name": "J407AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad13,16",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM9P3"
+    ],
+    "internal_name": "J407AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM6R3",
+      "MM753"
+    ],
+    "internal_name": "J408AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM713",
+      "MM7E3"
+    ],
+    "internal_name": "J408AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM6T3",
+      "MM9M3"
+    ],
+    "internal_name": "J408AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM723",
+      "MM7F3"
+    ],
+    "internal_name": "J408AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MME93",
+      "MME23"
+    ],
+    "internal_name": "J408AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MMED3",
+      "MME63"
+    ],
+    "internal_name": "J408AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM6U3",
+      "MM773"
+    ],
+    "internal_name": "J408AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM733",
+      "MM7G3"
+    ],
+    "internal_name": "J408AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM6V3",
+      "MM783"
+    ],
+    "internal_name": "J408AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad13,17",
+    "generation": "iPad Air (5th generation)",
+    "models": [
+      "MM743",
+      "MM7H3"
+    ],
+    "internal_name": "J408AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWC3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWG3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWL3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWQ3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWF3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWK3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWP3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWU3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWD3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWH3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWM3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWR3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWE3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWJ3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWN3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUWT3"
+    ],
+    "internal_name": "J507AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXD3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXH3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXM3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXR3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXG3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXL3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXQ3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXV3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXE3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXJ3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXN3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXT3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXF3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXK3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXP3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)",
+    "models": [
+      "MUXU3"
+    ],
+    "internal_name": "J508AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV273"
+    ],
+    "internal_name": "J537AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2D3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2J3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2P3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2C3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2H3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2N3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2T3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV283"
+    ],
+    "internal_name": "J537AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2F3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2K3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2Q3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV293"
+    ],
+    "internal_name": "J537AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2G3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2L3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV2R3"
+    ],
+    "internal_name": "J537AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV6Q3"
+    ],
+    "internal_name": "J538AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV6V3"
+    ],
+    "internal_name": "J538AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV703"
+    ],
+    "internal_name": "J538AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV743"
+    ],
+    "internal_name": "J538AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV6U3"
+    ],
+    "internal_name": "J538AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV6Y3"
+    ],
+    "internal_name": "J538AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV733"
+    ],
+    "internal_name": "J538AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV773"
+    ],
+    "internal_name": "J538AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV6R3"
+    ],
+    "internal_name": "J538AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV6W3"
+    ],
+    "internal_name": "J538AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV713"
+    ],
+    "internal_name": "J538AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV753"
+    ],
+    "internal_name": "J538AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV6T3"
+    ],
+    "internal_name": "J538AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV6X3"
+    ],
+    "internal_name": "J538AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV723"
+    ],
+    "internal_name": "J538AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)",
+    "models": [
+      "MV763"
+    ],
+    "internal_name": "J538AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MC9W4"
+    ],
+    "internal_name": "J607AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCA14"
+    ],
+    "internal_name": "J607AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCA74"
+    ],
+    "internal_name": "J607AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCAH4"
+    ],
+    "internal_name": "J607AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCA04"
+    ],
+    "internal_name": "J607AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCA64"
+    ],
+    "internal_name": "J607AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCAE4"
+    ],
+    "internal_name": "J607AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCAU4"
+    ],
+    "internal_name": "J607AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MC9X4"
+    ],
+    "internal_name": "J607AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCA34"
+    ],
+    "internal_name": "J607AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCA94"
+    ],
+    "internal_name": "J607AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCAJ4"
+    ],
+    "internal_name": "J607AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MC9Y4"
+    ],
+    "internal_name": "J607AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCA44"
+    ],
+    "internal_name": "J607AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCAA4"
+    ],
+    "internal_name": "J607AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,3",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCAQ4"
+    ],
+    "internal_name": "J607AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCFV4",
+      "MCGD4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG04",
+      "MCGH4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG44",
+      "MCGM4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG84",
+      "MCGR4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCFY4",
+      "MCGG4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG34",
+      "MCGL4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG74",
+      "MCGQ4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCGC4",
+      "MCGV4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCFW4",
+      "MCGE4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG14",
+      "MCGJ4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG54",
+      "MCGN4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG94",
+      "MCGT4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCFX4",
+      "MCGF4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG24",
+      "MCGK4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCG64",
+      "MCGP4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,4",
+    "generation": "iPad Air 11-inch (M3)",
+    "models": [
+      "MCGA4",
+      "MCGU4"
+    ],
+    "internal_name": "J608AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNH4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNN4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNT4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCQ04"
+    ],
+    "internal_name": "J637AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNL4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNR4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNY4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCQ34"
+    ],
+    "internal_name": "J637AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNJ4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNP4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNW4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCQ14"
+    ],
+    "internal_name": "J637AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNK4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNQ4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCNX4"
+    ],
+    "internal_name": "J637AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,5",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCQ24"
+    ],
+    "internal_name": "J637AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJ14",
+      "MCJJ4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJ54",
+      "MCJN4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJ94",
+      "MCJU4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJE4",
+      "MCJY4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJ44",
+      "MCJM4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJ84",
+      "MCJT4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJD4",
+      "MCJX4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJH4",
+      "MCL34"
+    ],
+    "internal_name": "J638AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJ24",
+      "MCJK4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJ64",
+      "MCJP4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJA4",
+      "MCJV4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJF4",
+      "MCL14"
+    ],
+    "internal_name": "J638AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJ34",
+      "MCJL4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJ74",
+      "MCJQ4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJC4",
+      "MCJW4"
+    ],
+    "internal_name": "J638AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad15,6",
+    "generation": "iPad Air 13-inch (M3)",
+    "models": [
+      "MCJG4",
+      "MCL24"
+    ],
+    "internal_name": "J638AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML0H2"
+    ],
+    "internal_name": "J98aAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML0R2"
+    ],
+    "internal_name": "J98aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML0V2"
+    ],
+    "internal_name": "J98aAP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML0G2"
+    ],
+    "internal_name": "J98aAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML0Q2"
+    ],
+    "internal_name": "J98aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML0U2"
+    ],
+    "internal_name": "J98aAP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML0F2"
+    ],
+    "internal_name": "J98aAP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML0N2"
+    ],
+    "internal_name": "J98aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML0T2"
+    ],
+    "internal_name": "J98aAP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,8",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML3Q2",
+      "ML2K2",
+      "ML3P2"
+    ],
+    "internal_name": "J99aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,8",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML3Z2",
+      "ML2N2",
+      "ML412"
+    ],
+    "internal_name": "J99aAP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,8",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML3N2",
+      "ML2J2",
+      "ML3O2"
+    ],
+    "internal_name": "J99aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,8",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML3W2",
+      "ML2M2"
+    ],
+    "internal_name": "J99aAP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,8",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML3K2",
+      "ML2I2"
+    ],
+    "internal_name": "J99aAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,8",
+    "generation": "iPad Pro (12.9-inch)",
+    "models": [
+      "ML3T2",
+      "ML2L2"
+    ],
+    "internal_name": "J99aAP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLMQ2"
+    ],
+    "internal_name": "J127AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLMX2"
+    ],
+    "internal_name": "J127AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLN12"
+    ],
+    "internal_name": "J127AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLMP2"
+    ],
+    "internal_name": "J127AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLMW2"
+    ],
+    "internal_name": "J127AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLN02"
+    ],
+    "internal_name": "J127AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLMN2"
+    ],
+    "internal_name": "J127AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLMV2"
+    ],
+    "internal_name": "J127AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLMY2"
+    ],
+    "internal_name": "J127AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MM172"
+    ],
+    "internal_name": "J127AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MM192"
+    ],
+    "internal_name": "J127AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MM1A2"
+    ],
+    "internal_name": "J127AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLPY2"
+    ],
+    "internal_name": "J128AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLQ52"
+    ],
+    "internal_name": "J128AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLQ82"
+    ],
+    "internal_name": "J128AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLPX2"
+    ],
+    "internal_name": "J128AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLQ42"
+    ],
+    "internal_name": "J128AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLQ72"
+    ],
+    "internal_name": "J128AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLPW2"
+    ],
+    "internal_name": "J128AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLQ32"
+    ],
+    "internal_name": "J128AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLQ62"
+    ],
+    "internal_name": "J128AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLYJ2"
+    ],
+    "internal_name": "J128AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLYL2"
+    ],
+    "internal_name": "J128AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro (9.7-inch)",
+    "models": [
+      "MLYM2"
+    ],
+    "internal_name": "J128AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MQDD2"
+    ],
+    "internal_name": "J120AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MP6J2"
+    ],
+    "internal_name": "J120AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MPL12"
+    ],
+    "internal_name": "J120AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MQDC2"
+    ],
+    "internal_name": "J120AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MP6H2"
+    ],
+    "internal_name": "J120AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MPL02"
+    ],
+    "internal_name": "J120AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MQDA2"
+    ],
+    "internal_name": "J120AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MP6G2"
+    ],
+    "internal_name": "J120AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MPKY2"
+    ],
+    "internal_name": "J120AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MQEF2"
+    ],
+    "internal_name": "J121AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MPA62"
+    ],
+    "internal_name": "J121AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MPLL2"
+    ],
+    "internal_name": "J121AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MQEE2"
+    ],
+    "internal_name": "J121AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MPA52"
+    ],
+    "internal_name": "J121AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MPLK2"
+    ],
+    "internal_name": "J121AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MQED2"
+    ],
+    "internal_name": "J121AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MPA42"
+    ],
+    "internal_name": "J121AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro (12.9-inch) (2nd generation)",
+    "models": [
+      "MPLJ2"
+    ],
+    "internal_name": "J121AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MQDX2"
+    ],
+    "internal_name": "J207AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPF12"
+    ],
+    "internal_name": "J207AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPGK2"
+    ],
+    "internal_name": "J207AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MQDY2"
+    ],
+    "internal_name": "J207AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPF22"
+    ],
+    "internal_name": "J207AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPGL2"
+    ],
+    "internal_name": "J207AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MQDW2"
+    ],
+    "internal_name": "J207AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPF02"
+    ],
+    "internal_name": "J207AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPGJ2"
+    ],
+    "internal_name": "J207AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MQDT2"
+    ],
+    "internal_name": "J207AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPDY2"
+    ],
+    "internal_name": "J207AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPGH2"
+    ],
+    "internal_name": "J207AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MQF12"
+    ],
+    "internal_name": "J208AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPHJ2"
+    ],
+    "internal_name": "J208AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPMG2"
+    ],
+    "internal_name": "J208AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MQF22"
+    ],
+    "internal_name": "J208AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPHK2"
+    ],
+    "internal_name": "J208AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Rose Gold",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPMH2"
+    ],
+    "internal_name": "J208AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MQF02"
+    ],
+    "internal_name": "J208AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPHH2"
+    ],
+    "internal_name": "J208AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPMF2"
+    ],
+    "internal_name": "J208AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MQEY2"
+    ],
+    "internal_name": "J208AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPHG2"
+    ],
+    "internal_name": "J208AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro (10.5-inch)",
+    "models": [
+      "MPME2"
+    ],
+    "internal_name": "J208AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,1",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MTXP2"
+    ],
+    "internal_name": "J317AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,1",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MTXR2"
+    ],
+    "internal_name": "J317AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,1",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MTXU2"
+    ],
+    "internal_name": "J317AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,1",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MTXN2"
+    ],
+    "internal_name": "J317AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,1",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MTXQ2"
+    ],
+    "internal_name": "J317AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,1",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MTXT2"
+    ],
+    "internal_name": "J317AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,2",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MTXW2"
+    ],
+    "internal_name": "J317xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,2",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MTXV2"
+    ],
+    "internal_name": "J317xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU0U2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU172"
+    ],
+    "internal_name": "J318AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1M2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU0M2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU102"
+    ],
+    "internal_name": "J318AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1F2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,4",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU222"
+    ],
+    "internal_name": "J318xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,4",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1V2"
+    ],
+    "internal_name": "J318xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU0X2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1C2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1T2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU0Q2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU152"
+    ],
+    "internal_name": "J318AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1J2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,4",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU272"
+    ],
+    "internal_name": "J318xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,4",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1Y2"
+    ],
+    "internal_name": "J318xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU0Y2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1D2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1U2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU0T2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU162"
+    ],
+    "internal_name": "J318AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU1K2"
+    ],
+    "internal_name": "J318AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,4",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU282"
+    ],
+    "internal_name": "J318xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,4",
+    "generation": "iPad Pro (11-inch)",
+    "models": [
+      "MU202"
+    ],
+    "internal_name": "J318xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,5",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTEM2"
+    ],
+    "internal_name": "J320AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,5",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTFN2"
+    ],
+    "internal_name": "J320AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,5",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTFQ2"
+    ],
+    "internal_name": "J320AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,5",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTEL2"
+    ],
+    "internal_name": "J320AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,5",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTFL2"
+    ],
+    "internal_name": "J320AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,5",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTFP2"
+    ],
+    "internal_name": "J320AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,6",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTFT2"
+    ],
+    "internal_name": "J320xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,6",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTFR2"
+    ],
+    "internal_name": "J320xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTHP2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJ62"
+    ],
+    "internal_name": "J321AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJJ2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTHJ2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTHV2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJD2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,8",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJV2"
+    ],
+    "internal_name": "J321xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,8",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJP2"
+    ],
+    "internal_name": "J321xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTHT2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJ92"
+    ],
+    "internal_name": "J321AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJM2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTHM2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTHY2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJG2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,8",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJY2"
+    ],
+    "internal_name": "J321xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,8",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJT2"
+    ],
+    "internal_name": "J321xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTHU2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJA2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJN2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTHN2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJ02"
+    ],
+    "internal_name": "J321AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJH2"
+    ],
+    "internal_name": "J321AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,8",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTL02"
+    ],
+    "internal_name": "J321xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,8",
+    "generation": "iPad Pro (12.9-inch) (3rd generation)",
+    "models": [
+      "MTJU2"
+    ],
+    "internal_name": "J321xAP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,9",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MY252"
+    ],
+    "internal_name": "J417AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,9",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXDD2"
+    ],
+    "internal_name": "J417AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,9",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXDF2"
+    ],
+    "internal_name": "J417AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,9",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXDH2"
+    ],
+    "internal_name": "J417AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,9",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MY232"
+    ],
+    "internal_name": "J417AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,9",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXDC2"
+    ],
+    "internal_name": "J417AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,9",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXDE2"
+    ],
+    "internal_name": "J417AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,9",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXDG2"
+    ],
+    "internal_name": "J417AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,10",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MY2W2",
+      "MY342"
+    ],
+    "internal_name": "J418AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,10",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXE52",
+      "MXEX2"
+    ],
+    "internal_name": "J418AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,10",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXE72",
+      "MXF02"
+    ],
+    "internal_name": "J418AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,10",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXE92",
+      "MXF22"
+    ],
+    "internal_name": "J418AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,10",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MY2V2",
+      "MY332"
+    ],
+    "internal_name": "J418AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,10",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXE42",
+      "MXEW2"
+    ],
+    "internal_name": "J418AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,10",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXE62",
+      "MXEY2"
+    ],
+    "internal_name": "J418AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,10",
+    "generation": "iPad Pro (11-inch) (2nd generation)",
+    "models": [
+      "MXE82",
+      "MXF12"
+    ],
+    "internal_name": "J418AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,11",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MY2J2"
+    ],
+    "internal_name": "J420AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,11",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXAU2"
+    ],
+    "internal_name": "J420AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,11",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXAW2"
+    ],
+    "internal_name": "J420AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,11",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXAY2"
+    ],
+    "internal_name": "J420AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,11",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MY2H2"
+    ],
+    "internal_name": "J420AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,11",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXAT2"
+    ],
+    "internal_name": "J420AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,11",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXAV2"
+    ],
+    "internal_name": "J420AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,11",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXAX2"
+    ],
+    "internal_name": "J420AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,12",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MY3D2",
+      "MY3K2"
+    ],
+    "internal_name": "J421AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,12",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXF62",
+      "MXFY2"
+    ],
+    "internal_name": "J421AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,12",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXF82",
+      "MXG12"
+    ],
+    "internal_name": "J421AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad8,12",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXFA2",
+      "MXG32"
+    ],
+    "internal_name": "J421AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,12",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MY3C2",
+      "MY3J2"
+    ],
+    "internal_name": "J421AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,12",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXF52",
+      "MXFX2"
+    ],
+    "internal_name": "J421AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,12",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXF72",
+      "MXG02"
+    ],
+    "internal_name": "J421AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad8,12",
+    "generation": "iPad Pro (12.9-inch) (4th generation)",
+    "models": [
+      "MXF92",
+      "MXG22"
+    ],
+    "internal_name": "J421AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVV83"
+    ],
+    "internal_name": "J717AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVVC3"
+    ],
+    "internal_name": "J717AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVVE3"
+    ],
+    "internal_name": "J717AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MWR63"
+    ],
+    "internal_name": "J717AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVVG3"
+    ],
+    "internal_name": "J717AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MWR83"
+    ],
+    "internal_name": "J717AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVV93"
+    ],
+    "internal_name": "J717AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVVD3"
+    ],
+    "internal_name": "J717AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVVF3"
+    ],
+    "internal_name": "J717AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MWR73"
+    ],
+    "internal_name": "J717AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVVH3"
+    ],
+    "internal_name": "J717AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MWR93"
+    ],
+    "internal_name": "J717AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVW13"
+    ],
+    "internal_name": "J718AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVW33"
+    ],
+    "internal_name": "J718AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVW53"
+    ],
+    "internal_name": "J718AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MWRP3"
+    ],
+    "internal_name": "J718AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVW73"
+    ],
+    "internal_name": "J718AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MWRR3"
+    ],
+    "internal_name": "J718AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVW23"
+    ],
+    "internal_name": "J718AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVW43"
+    ],
+    "internal_name": "J718AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVW63"
+    ],
+    "internal_name": "J718AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MWRQ3"
+    ],
+    "internal_name": "J718AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MVW83"
+    ],
+    "internal_name": "J718AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)",
+    "models": [
+      "MWRT3"
+    ],
+    "internal_name": "J718AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVX23"
+    ],
+    "internal_name": "J720AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVX43"
+    ],
+    "internal_name": "J720AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVX63"
+    ],
+    "internal_name": "J720AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MWRF3"
+    ],
+    "internal_name": "J720AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVX83"
+    ],
+    "internal_name": "J720AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MWRH3"
+    ],
+    "internal_name": "J720AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVX33"
+    ],
+    "internal_name": "J720AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVX53"
+    ],
+    "internal_name": "J720AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVX73"
+    ],
+    "internal_name": "J720AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MWRG3"
+    ],
+    "internal_name": "J720AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVX93"
+    ],
+    "internal_name": "J720AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MWRJ3"
+    ],
+    "internal_name": "J720AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVXR3"
+    ],
+    "internal_name": "J721AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVXU3"
+    ],
+    "internal_name": "J721AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVXW3"
+    ],
+    "internal_name": "J721AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MWRY3"
+    ],
+    "internal_name": "J721AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVXY3"
+    ],
+    "internal_name": "J721AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MWT13"
+    ],
+    "internal_name": "J721AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVXT3"
+    ],
+    "internal_name": "J721AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVXV3"
+    ],
+    "internal_name": "J721AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVXX3"
+    ],
+    "internal_name": "J721AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MWT03"
+    ],
+    "internal_name": "J721AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MVY03"
+    ],
+    "internal_name": "J721AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)",
+    "models": [
+      "MWT23"
+    ],
+    "internal_name": "J721AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Black & Slate",
+    "identifier": "iPad2,5",
+    "generation": "iPad mini",
+    "models": [
+      "MD528",
+      "MF432"
+    ],
+    "internal_name": "P105AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black & Slate",
+    "identifier": "iPad2,5",
+    "generation": "iPad mini",
+    "models": [
+      "MD529"
+    ],
+    "internal_name": "P105AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black & Slate",
+    "identifier": "iPad2,5",
+    "generation": "iPad mini",
+    "models": [
+      "MD530"
+    ],
+    "internal_name": "P105AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White & Silver",
+    "identifier": "iPad2,5",
+    "generation": "iPad mini",
+    "models": [
+      "MD531"
+    ],
+    "internal_name": "P105AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White & Silver",
+    "identifier": "iPad2,5",
+    "generation": "iPad mini",
+    "models": [
+      "MD532"
+    ],
+    "internal_name": "P105AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White & Silver",
+    "identifier": "iPad2,5",
+    "generation": "iPad mini",
+    "models": [
+      "MD533"
+    ],
+    "internal_name": "P105AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black & Slate",
+    "identifier": "iPad2,6",
+    "generation": "iPad mini",
+    "models": [
+      "MD534",
+      "ME030",
+      "MF442",
+      "MF743"
+    ],
+    "internal_name": "P106AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black & Slate",
+    "identifier": "iPad2,6",
+    "generation": "iPad mini",
+    "models": [
+      "MD535",
+      "ME031"
+    ],
+    "internal_name": "P106AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black & Slate",
+    "identifier": "iPad2,6",
+    "generation": "iPad mini",
+    "models": [
+      "MD536",
+      "ME032"
+    ],
+    "internal_name": "P106AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White & Silver",
+    "identifier": "iPad2,6",
+    "generation": "iPad mini",
+    "models": [
+      "MD537",
+      "ME033",
+      "MF746"
+    ],
+    "internal_name": "P106AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White & Silver",
+    "identifier": "iPad2,6",
+    "generation": "iPad mini",
+    "models": [
+      "MD538",
+      "ME034"
+    ],
+    "internal_name": "P106AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White & Silver",
+    "identifier": "iPad2,6",
+    "generation": "iPad mini",
+    "models": [
+      "MD539",
+      "ME035"
+    ],
+    "internal_name": "P106AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Black & Slate",
+    "identifier": "iPad2,7",
+    "generation": "iPad mini",
+    "models": [
+      "MD540",
+      "ME215",
+      "MF450",
+      "MF453"
+    ],
+    "internal_name": "P107AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Black & Slate",
+    "identifier": "iPad2,7",
+    "generation": "iPad mini",
+    "models": [
+      "MD541",
+      "ME216"
+    ],
+    "internal_name": "P107AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Black & Slate",
+    "identifier": "iPad2,7",
+    "generation": "iPad mini",
+    "models": [
+      "MD542",
+      "ME217"
+    ],
+    "internal_name": "P107AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "White & Silver",
+    "identifier": "iPad2,7",
+    "generation": "iPad mini",
+    "models": [
+      "MD543",
+      "ME218"
+    ],
+    "internal_name": "P107AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "White & Silver",
+    "identifier": "iPad2,7",
+    "generation": "iPad mini",
+    "models": [
+      "MD544",
+      "ME219"
+    ],
+    "internal_name": "P107AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "White & Silver",
+    "identifier": "iPad2,7",
+    "generation": "iPad mini",
+    "models": [
+      "MD545",
+      "ME220"
+    ],
+    "internal_name": "P107AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,4",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME279"
+    ],
+    "internal_name": "J85AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,4",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME280"
+    ],
+    "internal_name": "J85AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,4",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME281"
+    ],
+    "internal_name": "J85AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,4",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME860"
+    ],
+    "internal_name": "J85AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,4",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME276"
+    ],
+    "internal_name": "J85AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,4",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME277"
+    ],
+    "internal_name": "J85AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,4",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME278"
+    ],
+    "internal_name": "J85AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,4",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME856"
+    ],
+    "internal_name": "J85AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,5",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME814",
+      "ME818",
+      "MF074",
+      "MF075",
+      "MF076",
+      "MF544"
+    ],
+    "internal_name": "J86AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,5",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME824",
+      "MF083",
+      "MF084",
+      "MF085",
+      "MF569"
+    ],
+    "internal_name": "J86AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,5",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME832",
+      "MF089",
+      "MF090",
+      "MF091",
+      "MF580"
+    ],
+    "internal_name": "J86AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,5",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME840",
+      "MF120",
+      "MF121",
+      "MF123",
+      "MF594"
+    ],
+    "internal_name": "J86AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,5",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME800",
+      "MF066",
+      "MF069",
+      "MF070",
+      "MF078",
+      "MF519"
+    ],
+    "internal_name": "J86AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,5",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME820",
+      "MF080",
+      "MF081",
+      "MF082",
+      "MF552"
+    ],
+    "internal_name": "J86AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,5",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME828",
+      "MF086",
+      "MF087",
+      "MF088",
+      "MF575"
+    ],
+    "internal_name": "J86AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,5",
+    "generation": "iPad mini 2",
+    "models": [
+      "ME836",
+      "MF116",
+      "MF117",
+      "MF118",
+      "MF585"
+    ],
+    "internal_name": "J86AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,6",
+    "generation": "iPad mini 2",
+    "models": [
+      "MF248"
+    ],
+    "internal_name": "J87AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,6",
+    "generation": "iPad mini 2",
+    "models": [
+      "MF252"
+    ],
+    "internal_name": "J87AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,6",
+    "generation": "iPad mini 2",
+    "models": [
+      "MF246"
+    ],
+    "internal_name": "J87AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,6",
+    "generation": "iPad mini 2",
+    "models": [
+      "MF244"
+    ],
+    "internal_name": "J87AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,6",
+    "generation": "iPad mini 2",
+    "models": [
+      "MF247"
+    ],
+    "internal_name": "J87AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,6",
+    "generation": "iPad mini 2",
+    "models": [
+      "MF251"
+    ],
+    "internal_name": "J87AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,6",
+    "generation": "iPad mini 2",
+    "models": [
+      "MF245"
+    ],
+    "internal_name": "J87AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,6",
+    "generation": "iPad mini 2",
+    "models": [
+      "MF243"
+    ],
+    "internal_name": "J87AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad4,7",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGYE2"
+    ],
+    "internal_name": "J85mAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad4,7",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGY92"
+    ],
+    "internal_name": "J85mAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad4,7",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGYK2"
+    ],
+    "internal_name": "J85mAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,7",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGNV2"
+    ],
+    "internal_name": "J85mAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,7",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGGT2"
+    ],
+    "internal_name": "J85mAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,7",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGP42"
+    ],
+    "internal_name": "J85mAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,7",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGNR2"
+    ],
+    "internal_name": "J85mAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,7",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGGQ2"
+    ],
+    "internal_name": "J85mAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,7",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGP32"
+    ],
+    "internal_name": "J85mAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad4,8",
+    "generation": "iPad mini 3",
+    "models": [
+      "MH3G2",
+      "MH0F2"
+    ],
+    "internal_name": "J86mAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad4,8",
+    "generation": "iPad mini 3",
+    "models": [
+      "MH392"
+    ],
+    "internal_name": "J86mAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad4,8",
+    "generation": "iPad mini 3",
+    "models": [
+      "MH3N2"
+    ],
+    "internal_name": "J86mAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,8",
+    "generation": "iPad mini 3",
+    "models": [
+      "MH3F2"
+    ],
+    "internal_name": "J86mAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,8",
+    "generation": "iPad mini 3",
+    "models": [
+      "MH382"
+    ],
+    "internal_name": "J86mAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,8",
+    "generation": "iPad mini 3",
+    "models": [
+      "MH3M2"
+    ],
+    "internal_name": "J86mAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,8",
+    "generation": "iPad mini 3",
+    "models": [
+      "MH3E2"
+    ],
+    "internal_name": "J86mAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,8",
+    "generation": "iPad mini 3",
+    "models": [
+      "MH372"
+    ],
+    "internal_name": "J86mAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,8",
+    "generation": "iPad mini 3",
+    "models": [
+      "MH3L2"
+    ],
+    "internal_name": "J86mAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad4,9",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGYR2",
+      "MGYY2"
+    ],
+    "internal_name": "J87mAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad4,9",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGYN2",
+      "MGYW2"
+    ],
+    "internal_name": "J87mAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad4,9",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGYU2",
+      "MH012"
+    ],
+    "internal_name": "J87mAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,9",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGHW2",
+      "MGPW2"
+    ],
+    "internal_name": "J87mAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,9",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGJ12",
+      "MGQ12"
+    ],
+    "internal_name": "J87mAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad4,9",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGJ32",
+      "MGQ32"
+    ],
+    "internal_name": "J87mAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,9",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGHV2",
+      "MGPV2"
+    ],
+    "internal_name": "J87mAP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,9",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGJ02",
+      "MGQ02"
+    ],
+    "internal_name": "J87mAP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad4,9",
+    "generation": "iPad mini 3",
+    "models": [
+      "MGJ22",
+      "MGQ22"
+    ],
+    "internal_name": "J87mAP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK6L2"
+    ],
+    "internal_name": "J96AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MNY32"
+    ],
+    "internal_name": "J96AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK9J2"
+    ],
+    "internal_name": "J96AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK9Q2"
+    ],
+    "internal_name": "J96AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK6K2"
+    ],
+    "internal_name": "J96AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MNY22"
+    ],
+    "internal_name": "J96AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK9H2"
+    ],
+    "internal_name": "J96AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK9P2"
+    ],
+    "internal_name": "J96AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK6J2"
+    ],
+    "internal_name": "J96AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MNY12"
+    ],
+    "internal_name": "J96AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK9G2"
+    ],
+    "internal_name": "J96AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,1",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK9N2"
+    ],
+    "internal_name": "J96AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK882",
+      "MK712"
+    ],
+    "internal_name": "J97AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MNWR2",
+      "MNWG2"
+    ],
+    "internal_name": "J97AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK8C2",
+      "MK752"
+    ],
+    "internal_name": "J97AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK8F2",
+      "MK782"
+    ],
+    "internal_name": "J97AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK872",
+      "MK702",
+      "MK7X2"
+    ],
+    "internal_name": "J97AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MNWQ2",
+      "MNWF2"
+    ],
+    "internal_name": "J97AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK8A2",
+      "MK732"
+    ],
+    "internal_name": "J97AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK8E2",
+      "MK772"
+    ],
+    "internal_name": "J97AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK862",
+      "MK7L2"
+    ],
+    "internal_name": "J97AP",
+    "storage": "16 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MNWP2"
+    ],
+    "internal_name": "J97AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK892",
+      "MK722"
+    ],
+    "internal_name": "J97AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad5,2",
+    "generation": "iPad mini 4",
+    "models": [
+      "MK8D2",
+      "MK762"
+    ],
+    "internal_name": "J97AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,1",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUQY2"
+    ],
+    "internal_name": "J210AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,1",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUU62"
+    ],
+    "internal_name": "J210AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,1",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUQX2"
+    ],
+    "internal_name": "J210AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,1",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUU52"
+    ],
+    "internal_name": "J210AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,1",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUQW2"
+    ],
+    "internal_name": "J210AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,1",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUU32"
+    ],
+    "internal_name": "J210AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,2",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUXH2",
+      "MUX72"
+    ],
+    "internal_name": "J211AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Gold",
+    "identifier": "iPad11,2",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUXP2",
+      "MUXE2"
+    ],
+    "internal_name": "J211AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,2",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUXG2",
+      "MUX62"
+    ],
+    "internal_name": "J211AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad11,2",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUXN2",
+      "MUXD2"
+    ],
+    "internal_name": "J211AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,2",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUXF2",
+      "MUX52"
+    ],
+    "internal_name": "J211AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad11,2",
+    "generation": "iPad mini (5th generation)",
+    "models": [
+      "MUXM2",
+      "MUXC2"
+    ],
+    "internal_name": "J211AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,1",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK7M3"
+    ],
+    "internal_name": "J310AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,1",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK7T3"
+    ],
+    "internal_name": "J310AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad14,1",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MLWL3"
+    ],
+    "internal_name": "J310AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad14,1",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MLWR3"
+    ],
+    "internal_name": "J310AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,1",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK7R3"
+    ],
+    "internal_name": "J310AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,1",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK7X3"
+    ],
+    "internal_name": "J310AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,1",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK7P3"
+    ],
+    "internal_name": "J310AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,1",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK7V3"
+    ],
+    "internal_name": "J310AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,2",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK893"
+    ],
+    "internal_name": "J311AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad14,2",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK8F3"
+    ],
+    "internal_name": "J311AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad14,2",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MLX43"
+    ],
+    "internal_name": "J311AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPad14,2",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MLX93"
+    ],
+    "internal_name": "J311AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,2",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK8E3"
+    ],
+    "internal_name": "J311AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad14,2",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK8K3"
+    ],
+    "internal_name": "J311AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,2",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK8C3"
+    ],
+    "internal_name": "J311AP",
+    "storage": "64 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad14,2",
+    "generation": "iPad mini (6th generation)",
+    "models": [
+      "MK8H3"
+    ],
+    "internal_name": "J311AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXN63"
+    ],
+    "internal_name": "J410AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXNA3"
+    ],
+    "internal_name": "J410AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MYGY3"
+    ],
+    "internal_name": "J410AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXN73"
+    ],
+    "internal_name": "J410AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXNC3"
+    ],
+    "internal_name": "J410AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MYH13"
+    ],
+    "internal_name": "J410AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXN93"
+    ],
+    "internal_name": "J410AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXNE3"
+    ],
+    "internal_name": "J410AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MYH33"
+    ],
+    "internal_name": "J410AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXN83"
+    ],
+    "internal_name": "J410AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXND3"
+    ],
+    "internal_name": "J410AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,1",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MYH23"
+    ],
+    "internal_name": "J410AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXPN3",
+      "MXQ03"
+    ],
+    "internal_name": "J411AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXPT3",
+      "MXQ43"
+    ],
+    "internal_name": "J411AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MYHC3",
+      "MYHG3"
+    ],
+    "internal_name": "J411AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXPP3",
+      "MXQ13"
+    ],
+    "internal_name": "J411AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXPW3",
+      "MXQ53"
+    ],
+    "internal_name": "J411AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MYHD3",
+      "MYHH3"
+    ],
+    "internal_name": "J411AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXPR3",
+      "MXQ33"
+    ],
+    "internal_name": "J411AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXPY3",
+      "MXQ73"
+    ],
+    "internal_name": "J411AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MYHF3",
+      "MYHK3"
+    ],
+    "internal_name": "J411AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXPQ3",
+      "MXQ23"
+    ],
+    "internal_name": "J411AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MXPX3",
+      "MXQ63"
+    ],
+    "internal_name": "J411AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,2",
+    "generation": "iPad mini (A17 Pro)",
+    "models": [
+      "MYHE3",
+      "MYHJ3"
+    ],
+    "internal_name": "J411AP",
+    "storage": "512 GB"
   }
 ]

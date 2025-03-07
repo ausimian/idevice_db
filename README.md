@@ -24,7 +24,8 @@ available in memory for the lifetime of the application.
       models: ["MWHG2"],
       generation: "iPhone 11 Pro Max",
       internal_name: "D431AP",
-      storage: "64 GB"
+      storage: "64 GB",
+      family: :iPhone
     }
 
 ## Generating the data
@@ -39,7 +40,7 @@ by adding `idevice_db` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:idevice_db, "~> 1.0.0"}
+    {:idevice_db, "~> 1.1.0"}
   ]
 end
 ```

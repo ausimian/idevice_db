@@ -28,4 +28,9 @@ defmodule IDeviceDbTest do
     models = IDeviceDb.all_devices() |> Enum.map(& &1.models) |> List.flatten()
     _ = Enum.sort(Enum.shuffle(models), &IDeviceDb.model_less_than?/2)
   end
+
+  test "Families are assigned inorder" do
+    families = IDeviceDb.all_devices() |> Enum.map(& &1.family) |> Enum.uniq()
+    assert families == [:iPhone, :iPad, :iPadAir, :iPadPro, :iPadMini]
+  end
 end
