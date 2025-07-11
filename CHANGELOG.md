@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.1 - 2025-07-11
+
+- Refresh from iPhone wiki
+
 ## 1.1.0 - 2025-05-07
 
 - Added iPads
