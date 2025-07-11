@@ -2226,7 +2226,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone9,1",
     "generation": "iPhone 7",
     "models": [
@@ -2239,7 +2239,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone9,1",
     "generation": "iPhone 7",
     "models": [
@@ -2440,7 +2440,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone9,3",
     "generation": "iPhone 7",
     "models": [
@@ -2451,7 +2451,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone9,3",
     "generation": "iPhone 7",
     "models": [
@@ -2649,7 +2649,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone9,2",
     "generation": "iPhone 7 Plus",
     "models": [
@@ -2662,7 +2662,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone9,2",
     "generation": "iPhone 7 Plus",
     "models": [
@@ -2854,7 +2854,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone9,4",
     "generation": "iPhone 7 Plus",
     "models": [
@@ -2865,7 +2865,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone9,4",
     "generation": "iPhone 7 Plus",
     "models": [
@@ -3037,7 +3037,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone10,1",
     "generation": "iPhone 8",
     "models": [
@@ -3049,7 +3049,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone10,1",
     "generation": "iPhone 8",
     "models": [
@@ -3133,7 +3133,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone10,4",
     "generation": "iPhone 8",
     "models": [
@@ -3145,7 +3145,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone10,4",
     "generation": "iPhone 8",
     "models": [
@@ -3235,7 +3235,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone10,2",
     "generation": "iPhone 8 Plus",
     "models": [
@@ -3247,7 +3247,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone10,2",
     "generation": "iPhone 8 Plus",
     "models": [
@@ -3331,7 +3331,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone10,5",
     "generation": "iPhone 8 Plus",
     "models": [
@@ -3343,7 +3343,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone10,5",
     "generation": "iPhone 8 Plus",
     "models": [
@@ -3572,7 +3572,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -3585,7 +3585,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -3598,7 +3598,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -3779,7 +3779,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -3789,7 +3789,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -3799,7 +3799,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -3959,7 +3959,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -3969,7 +3969,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -3979,7 +3979,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -4139,7 +4139,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -4149,7 +4149,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -4159,7 +4159,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
@@ -5198,7 +5198,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
@@ -5212,7 +5212,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
@@ -5226,7 +5226,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
@@ -5427,7 +5427,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
@@ -5437,7 +5437,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
@@ -5447,7 +5447,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
@@ -5607,7 +5607,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
@@ -5617,7 +5617,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
@@ -5627,7 +5627,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
@@ -6650,7 +6650,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,8",
     "generation": "iPhone SE (2nd generation)",
     "models": [
@@ -6667,7 +6667,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,8",
     "generation": "iPhone SE (2nd generation)",
     "models": [
@@ -6684,7 +6684,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone12,8",
     "generation": "iPhone SE (2nd generation)",
     "models": [
@@ -6803,7 +6803,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone13,1",
     "generation": "iPhone 12 mini",
     "models": [
@@ -6820,7 +6820,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone13,1",
     "generation": "iPhone 12 mini",
     "models": [
@@ -6837,7 +6837,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone13,1",
     "generation": "iPhone 12 mini",
     "models": [
@@ -7109,7 +7109,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone13,2",
     "generation": "iPhone 12",
     "models": [
@@ -7126,7 +7126,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone13,2",
     "generation": "iPhone 12",
     "models": [
@@ -7143,7 +7143,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone13,2",
     "generation": "iPhone 12",
     "models": [
@@ -7721,7 +7721,7 @@
     "storage": "512 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,4",
     "generation": "iPhone 13 mini",
     "models": [
@@ -7734,7 +7734,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,4",
     "generation": "iPhone 13 mini",
     "models": [
@@ -7747,7 +7747,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,4",
     "generation": "iPhone 13 mini",
     "models": [
@@ -7955,7 +7955,7 @@
     "storage": "512 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,5",
     "generation": "iPhone 13",
     "models": [
@@ -7968,7 +7968,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,5",
     "generation": "iPhone 13",
     "models": [
@@ -7981,7 +7981,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,5",
     "generation": "iPhone 13",
     "models": [
@@ -8749,7 +8749,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,6",
     "generation": "iPhone SE (3rd generation)",
     "models": [
@@ -8762,7 +8762,7 @@
     "storage": "64 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,6",
     "generation": "iPhone SE (3rd generation)",
     "models": [
@@ -8775,7 +8775,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,6",
     "generation": "iPhone SE (3rd generation)",
     "models": [
@@ -8905,7 +8905,7 @@
     "storage": "512 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,7",
     "generation": "iPhone 14",
     "models": [
@@ -8918,7 +8918,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,7",
     "generation": "iPhone 14",
     "models": [
@@ -8931,7 +8931,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,7",
     "generation": "iPhone 14",
     "models": [
@@ -9139,7 +9139,7 @@
     "storage": "512 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,8",
     "generation": "iPhone 14 Plus",
     "models": [
@@ -9152,7 +9152,7 @@
     "storage": "128 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,8",
     "generation": "iPhone 14 Plus",
     "models": [
@@ -9165,7 +9165,7 @@
     "storage": "256 GB"
   },
   {
-    "finish": "PRODUCT(RED)",
+    "finish": "Red",
     "identifier": "iPhone14,8",
     "generation": "iPhone 14 Plus",
     "models": [

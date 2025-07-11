@@ -72,11 +72,14 @@ defmodule Mix.Tasks.GenerateDb do
       generation: generation,
       internal_name: internal_name,
       identifier: identifier,
-      finish: finish,
+      finish: tweak_finish(finish),
       storage: storage,
       models: String.split(models, ", ", trim: true)
     }
   end
+
+  defp tweak_finish("PRODUCT(RED)"), do: "Red"
+  defp tweak_finish(finish), do: finish
 
   defp group_by_generation(table_rows), do: group_by_generation(table_rows, [])
 

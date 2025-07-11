@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.2 - 2025-07-11
+
+- Handle weird finish values
+
 ## 1.1.1 - 2025-07-11
 
 - Refresh from iPhone wiki
