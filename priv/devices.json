@@ -11258,6 +11258,553 @@
     "storage": "512 GB"
   },
   {
+    "finish": "Sky Blue",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2P4",
+      "MG1D4",
+      "MG364"
+    ],
+    "internal_name": "D23AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Sky Blue",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2V4",
+      "MG1J4",
+      "MG3C4"
+    ],
+    "internal_name": "D23AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Sky Blue",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG304",
+      "MG1Q4",
+      "MG3G4"
+    ],
+    "internal_name": "D23AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Light Gold",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2N4",
+      "MG1A4",
+      "MG344"
+    ],
+    "internal_name": "D23AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Light Gold",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2U4",
+      "MG1H4",
+      "MG3A4"
+    ],
+    "internal_name": "D23AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Light Gold",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2Y4",
+      "MG1P4",
+      "MG3F4"
+    ],
+    "internal_name": "D23AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Cloud White",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2M4",
+      "MG194",
+      "MG334"
+    ],
+    "internal_name": "D23AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Cloud White",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2T4",
+      "MG1G4",
+      "MG394"
+    ],
+    "internal_name": "D23AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Cloud White",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2X4",
+      "MG1N4",
+      "MG3E4"
+    ],
+    "internal_name": "D23AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2L4",
+      "MG184",
+      "MG314"
+    ],
+    "internal_name": "D23AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2Q4",
+      "MG1E4",
+      "MG374"
+    ],
+    "internal_name": "D23AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone18,4",
+    "generation": "iPhone Air",
+    "models": [
+      "MG2W4",
+      "MG1L4",
+      "MG3D4"
+    ],
+    "internal_name": "D23AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Lavender",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6M4",
+      "MG494",
+      "MG6A4",
+      "MG704"
+    ],
+    "internal_name": "V57AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Lavender",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6U4",
+      "MG4J4",
+      "MG6G4",
+      "MG754"
+    ],
+    "internal_name": "V57AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Sage",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6N4",
+      "MG4A4",
+      "MG6C4",
+      "MG714"
+    ],
+    "internal_name": "V57AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Sage",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6V4",
+      "MG4Q4",
+      "MG6H4",
+      "MG764"
+    ],
+    "internal_name": "V57AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Mist Blue",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6L4",
+      "MG484",
+      "MG694",
+      "MG6Y4"
+    ],
+    "internal_name": "V57AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Mist Blue",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6T4",
+      "MG4H4",
+      "MG6F4",
+      "MG744"
+    ],
+    "internal_name": "V57AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6K4",
+      "MG474",
+      "MG684",
+      "MG6X4"
+    ],
+    "internal_name": "V57AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6Q4",
+      "MG4F4",
+      "MG6E4",
+      "MG734"
+    ],
+    "internal_name": "V57AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6J4",
+      "MG464",
+      "MG674",
+      "MG6W4"
+    ],
+    "internal_name": "V57AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone18,3",
+    "generation": "iPhone 17",
+    "models": [
+      "MG6P4",
+      "MG4E4",
+      "MG6D4",
+      "MG724"
+    ],
+    "internal_name": "V57AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPhone18,1",
+    "generation": "iPhone 17 Pro",
+    "models": [
+      "MG8G4",
+      "MG7K4",
+      "MG854",
+      "MG8T4"
+    ],
+    "internal_name": "V53AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPhone18,1",
+    "generation": "iPhone 17 Pro",
+    "models": [
+      "MG8K4",
+      "MG7N4",
+      "MG894",
+      "MG8W4"
+    ],
+    "internal_name": "V53AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPhone18,1",
+    "generation": "iPhone 17 Pro",
+    "models": [
+      "MG8P4",
+      "MG7R4",
+      "MG8D4",
+      "MG904"
+    ],
+    "internal_name": "V53AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Cosmic Orange",
+    "identifier": "iPhone18,1",
+    "generation": "iPhone 17 Pro",
+    "models": [
+      "MG8H4",
+      "MG7L4",
+      "MG864",
+      "MG8U4"
+    ],
+    "internal_name": "V53AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Cosmic Orange",
+    "identifier": "iPhone18,1",
+    "generation": "iPhone 17 Pro",
+    "models": [
+      "MG8M4",
+      "MG7P4",
+      "MG8A4",
+      "MG8X4"
+    ],
+    "internal_name": "V53AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Cosmic Orange",
+    "identifier": "iPhone18,1",
+    "generation": "iPhone 17 Pro",
+    "models": [
+      "MG8Q4",
+      "MG7T4",
+      "MG8E4",
+      "MG914"
+    ],
+    "internal_name": "V53AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Deep Blue",
+    "identifier": "iPhone18,1",
+    "generation": "iPhone 17 Pro",
+    "models": [
+      "MG8J4",
+      "MG7M4",
+      "MG874",
+      "MG8V4"
+    ],
+    "internal_name": "V53AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Deep Blue",
+    "identifier": "iPhone18,1",
+    "generation": "iPhone 17 Pro",
+    "models": [
+      "MG8N4",
+      "MG7Q4",
+      "MG8C4",
+      "MG8Y4"
+    ],
+    "internal_name": "V53AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Deep Blue",
+    "identifier": "iPhone18,1",
+    "generation": "iPhone 17 Pro",
+    "models": [
+      "MG8R4",
+      "MG7U4",
+      "MG8F4",
+      "MG924"
+    ],
+    "internal_name": "V53AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYM4",
+      "MFXG4",
+      "MFY84",
+      "MG034"
+    ],
+    "internal_name": "V54AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYQ4",
+      "MFXK4",
+      "MFYC4",
+      "MG064"
+    ],
+    "internal_name": "V54AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYV4",
+      "MFXN4",
+      "MFYF4",
+      "MG094"
+    ],
+    "internal_name": "V54AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYY4",
+      "MFXR4",
+      "MFYJ4",
+      "MG0F4"
+    ],
+    "internal_name": "V54AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Cosmic Orange",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYN4",
+      "MFXH4",
+      "MFY94",
+      "MG044"
+    ],
+    "internal_name": "V54AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Cosmic Orange",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYT4",
+      "MFXL4",
+      "MFYD4",
+      "MG074"
+    ],
+    "internal_name": "V54AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Cosmic Orange",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYW4",
+      "MFXP4",
+      "MFYG4",
+      "MG0A4"
+    ],
+    "internal_name": "V54AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Cosmic Orange",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MG004",
+      "MFXT4",
+      "MFYK4",
+      "MG0G4"
+    ],
+    "internal_name": "V54AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Deep Blue",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYP4",
+      "MFXJ4",
+      "MFYA4",
+      "MG054"
+    ],
+    "internal_name": "V54AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Deep Blue",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYU4",
+      "MFXM4",
+      "MFYE4",
+      "MG084"
+    ],
+    "internal_name": "V54AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Deep Blue",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MFYX4",
+      "MFXQ4",
+      "MFYH4",
+      "MG0E4"
+    ],
+    "internal_name": "V54AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Deep Blue",
+    "identifier": "iPhone18,2",
+    "generation": "iPhone 17 Pro Max",
+    "models": [
+      "MG014",
+      "MFXU4",
+      "MFYL4",
+      "MG0Q4"
+    ],
+    "internal_name": "V54AP",
+    "storage": "2 TB"
+  },
+  {
     "finish": "Black",
     "identifier": "iPad1,1",
     "generation": "iPad",
