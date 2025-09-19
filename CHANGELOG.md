@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.2.0 - 2025-09-19
+
+- Add iPhone17 and Air models
+
 ## 1.1.2 - 2025-07-11
 
 - Handle weird finish values
