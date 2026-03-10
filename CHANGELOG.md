@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.3.1 - 2025-03-10
+
+- Add iPhone17e models
+
 ## 1.2.0 - 2025-09-19
 
 - Add iPhone17 and Air models
