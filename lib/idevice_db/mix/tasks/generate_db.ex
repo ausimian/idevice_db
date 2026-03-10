@@ -77,7 +77,10 @@ defmodule Mix.Tasks.GenerateDb do
       identifier: identifier,
       finish: tweak_finish(finish),
       storage: storage,
-      models: String.split(models, ", ", trim: true)
+      models:
+        models
+        |> String.trim_trailing(",")
+        |> String.split(", ", trim: true)
     }
   end
 
