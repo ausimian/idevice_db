@@ -4,7 +4,8 @@
     "identifier": "iPhone1,1",
     "generation": "iPhone",
     "models": [
-      "MA501"
+      "MA501",
+      "MB213"
     ],
     "internal_name": "M68AP",
     "storage": "4 GB"
@@ -40,7 +41,8 @@
       "MB702",
       "MC176",
       "MB490",
-      "MB757"
+      "MB757",
+      "MB504"
     ],
     "internal_name": "N82AP",
     "storage": "8 GB"
@@ -96,7 +98,8 @@
       "MC131",
       "MC135",
       "MC139",
-      "MC143"
+      "MC143",
+      "MC151"
     ],
     "internal_name": "N88AP",
     "storage": "16 GB"
@@ -150,9 +153,7 @@
     "identifier": "iPhone3,1",
     "generation": "iPhone 4",
     "models": [
-      "MD126",
-      "MD127",
-      "MD128"
+      "MD127"
     ],
     "internal_name": "N90AP",
     "storage": "8 GB"
@@ -164,7 +165,7 @@
     "models": [
       "MC318",
       "MC603",
-      "MC608"
+      "MC607"
     ],
     "internal_name": "N90AP",
     "storage": "16 GB"
@@ -186,9 +187,7 @@
     "identifier": "iPhone3,1",
     "generation": "iPhone 4",
     "models": [
-      "MD196",
-      "MD197",
-      "MD198"
+      "MD197"
     ],
     "internal_name": "N90AP",
     "storage": "8 GB"
@@ -223,6 +222,7 @@
     "identifier": "iPhone3,2",
     "generation": "iPhone 4",
     "models": [
+      "MD126",
       "MD128",
       "ME798"
     ],
@@ -234,7 +234,9 @@
     "identifier": "iPhone3,2",
     "generation": "iPhone 4",
     "models": [
-      "ME799"
+      "ME799",
+      "MD196",
+      "MD198"
     ],
     "internal_name": "N90bAP",
     "storage": "8 GB"
@@ -257,7 +259,8 @@
     "identifier": "iPhone3,3",
     "generation": "iPhone 4",
     "models": [
-      "MC676"
+      "MC676",
+      "MC937"
     ],
     "internal_name": "N92AP",
     "storage": "16 GB"
@@ -353,7 +356,8 @@
       "MD278",
       "MD379",
       "MD261",
-      "MD243"
+      "MD243",
+      "3D424"
     ],
     "internal_name": "N94AP",
     "storage": "32 GB"
@@ -385,7 +389,8 @@
       "MF264",
       "MF266",
       "MF270",
-      "MF268"
+      "MF268",
+      "MF513"
     ],
     "internal_name": "N94AP",
     "storage": "8 GB"
@@ -404,7 +409,8 @@
       "MD866",
       "ME805",
       "MD240",
-      "MD920"
+      "MD920",
+      "MD320"
     ],
     "internal_name": "N94AP",
     "storage": "16 GB"
@@ -487,7 +493,8 @@
       "MD294",
       "MD635",
       "ME487",
-      "MD639"
+      "MD639",
+      "MD670"
     ],
     "internal_name": "N41AP",
     "storage": "16 GB"
@@ -607,9 +614,27 @@
     "identifier": "iPhone5,3",
     "generation": "iPhone 5c",
     "models": [
+      "MGFP2",
+      "MG0T2",
+      "MGFJ2",
+      "MGF22",
+      "MG2G2"
+    ],
+    "internal_name": "N48AP",
+    "storage": "8 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c",
+    "models": [
       "ME507",
       "ME531",
-      "ME543"
+      "ME543",
+      "ME555",
+      "ME567",
+      "MF366",
+      "ME495"
     ],
     "internal_name": "N48AP",
     "storage": "16 GB"
@@ -620,7 +645,12 @@
     "generation": "iPhone 5c",
     "models": [
       "MF136",
-      "MF151"
+      "MF146",
+      "MF151",
+      "MF156",
+      "MF161",
+      "MF371",
+      "MF131"
     ],
     "internal_name": "N48AP",
     "storage": "32 GB"
@@ -630,10 +660,27 @@
     "identifier": "iPhone5,3",
     "generation": "iPhone 5c",
     "models": [
+      "MGFQ2",
+      "MG0U2",
+      "MGFK2",
+      "MGF32",
+      "MG2H2"
+    ],
+    "internal_name": "N48AP",
+    "storage": "8 GB"
+  },
+  {
+    "finish": "Green",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c",
+    "models": [
       "ME508",
       "ME496",
+      "ME532",
       "ME544",
-      "ME568"
+      "ME556",
+      "ME568",
+      "MF367"
     ],
     "internal_name": "N48AP",
     "storage": "16 GB"
@@ -644,7 +691,12 @@
     "generation": "iPhone 5c",
     "models": [
       "MF137",
-      "MF152"
+      "MF147",
+      "MF152",
+      "MF157",
+      "MF162",
+      "MF372",
+      "MF132"
     ],
     "internal_name": "N48AP",
     "storage": "32 GB"
@@ -654,9 +706,27 @@
     "identifier": "iPhone5,3",
     "generation": "iPhone 5c",
     "models": [
+      "MGFR2",
+      "MG0V2",
+      "MGFL2",
+      "MGF42",
+      "MG2J2"
+    ],
+    "internal_name": "N48AP",
+    "storage": "8 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c",
+    "models": [
+      "ME497",
       "ME509",
       "ME533",
-      "ME545"
+      "ME545",
+      "ME557",
+      "ME569",
+      "MF368"
     ],
     "internal_name": "N48AP",
     "storage": "16 GB"
@@ -666,12 +736,32 @@
     "identifier": "iPhone5,3",
     "generation": "iPhone 5c",
     "models": [
-      "MF138",
       "MF133",
-      "MF153"
+      "MF138",
+      "MF148",
+      "MF153",
+      "MF158",
+      "MF163",
+      "MF373"
     ],
     "internal_name": "N48AP",
     "storage": "32 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPhone5,3",
+    "generation": "iPhone 5c",
+    "models": [
+      "MGFM2",
+      "MG0Q2",
+      "MGFG2",
+      "MGF02",
+      "MG2E2",
+      "MGFA2",
+      "MGET2"
+    ],
+    "internal_name": "N48AP",
+    "storage": "8 GB"
   },
   {
     "finish": "White",
@@ -681,7 +771,10 @@
       "ME505",
       "ME493",
       "ME541",
-      "ME565"
+      "ME553",
+      "ME565",
+      "ME529",
+      "MF364"
     ],
     "internal_name": "N48AP",
     "storage": "16 GB"
@@ -691,8 +784,13 @@
     "identifier": "iPhone5,3",
     "generation": "iPhone 5c",
     "models": [
+      "MF129",
       "MF134",
-      "MF149"
+      "MF144",
+      "MF149",
+      "MF154",
+      "MF159",
+      "MF369"
     ],
     "internal_name": "N48AP",
     "storage": "32 GB"
@@ -702,7 +800,9 @@
     "identifier": "iPhone5,3",
     "generation": "iPhone 5c",
     "models": [
-      "MGF12"
+      "MGFN2",
+      "MG0R2",
+      "MGFH2"
     ],
     "internal_name": "N48AP",
     "storage": "8 GB"
@@ -712,7 +812,12 @@
     "identifier": "iPhone5,3",
     "generation": "iPhone 5c",
     "models": [
-      "ME506"
+      "ME506",
+      "ME530",
+      "ME566",
+      "MF365",
+      "ME494",
+      "ME542"
     ],
     "internal_name": "N48AP",
     "storage": "16 GB"
@@ -722,7 +827,12 @@
     "identifier": "iPhone5,3",
     "generation": "iPhone 5c",
     "models": [
-      "MF135"
+      "MF135",
+      "MF145",
+      "MF155",
+      "MF160",
+      "MF307",
+      "MF130"
     ],
     "internal_name": "N48AP",
     "storage": "32 GB"
@@ -734,7 +844,8 @@
     "models": [
       "MG0T2",
       "MG1U2",
-      "MG902"
+      "MG902",
+      "ME687"
     ],
     "internal_name": "N49AP",
     "storage": "8 GB"
@@ -744,11 +855,11 @@
     "identifier": "iPhone5,4",
     "generation": "iPhone 5c",
     "models": [
-      "ME555",
       "ME501",
       "ME561",
       "MF323",
-      "MF333"
+      "MF333",
+      "ME681"
     ],
     "internal_name": "N49AP",
     "storage": "16 GB"
@@ -758,7 +869,9 @@
     "identifier": "iPhone5,4",
     "generation": "iPhone 5c",
     "models": [
-      "MF156"
+      "MF094",
+      "MF106",
+      "MF328"
     ],
     "internal_name": "N49AP",
     "storage": "32 GB"
@@ -770,7 +883,9 @@
     "models": [
       "MG0V2(?)",
       "MG1W2(?)",
-      "MG912"
+      "MG912",
+      "MG1V2",
+      "MG162"
     ],
     "internal_name": "N49AP",
     "storage": "8 GB"
@@ -780,9 +895,9 @@
     "identifier": "iPhone5,4",
     "generation": "iPhone 5c",
     "models": [
-      "ME556",
       "ME502",
-      "MF324"
+      "MF324",
+      "ME682"
     ],
     "internal_name": "N49AP",
     "storage": "16 GB"
@@ -794,7 +909,8 @@
     "models": [
       "MF157",
       "MF095",
-      "MF329"
+      "MF329",
+      "MF107"
     ],
     "internal_name": "N49AP",
     "storage": "32 GB"
@@ -806,7 +922,8 @@
     "models": [
       "MG0V2(?)",
       "MG1W2(?)",
-      "MG922"
+      "MG922",
+      "MG172"
     ],
     "internal_name": "N49AP",
     "storage": "8 GB"
@@ -816,8 +933,9 @@
     "identifier": "iPhone5,4",
     "generation": "iPhone 5c",
     "models": [
-      "ME557",
-      "ME503"
+      "ME503",
+      "ME683",
+      "MF325"
     ],
     "internal_name": "N49AP",
     "storage": "16 GB"
@@ -827,7 +945,8 @@
     "identifier": "iPhone5,4",
     "generation": "iPhone 5c",
     "models": [
-      "MF158",
+      "MF096",
+      "MF108",
       "MF330"
     ],
     "internal_name": "N49AP",
@@ -840,7 +959,9 @@
     "models": [
       "MG0Q2",
       "MG1Q2",
-      "MG8X2"
+      "MG8X2",
+      "MG132",
+      "MG1E2"
     ],
     "internal_name": "N49AP",
     "storage": "8 GB"
@@ -850,8 +971,8 @@
     "identifier": "iPhone5,4",
     "generation": "iPhone 5c",
     "models": [
-      "ME553",
       "ME499",
+      "ME679",
       "MF321"
     ],
     "internal_name": "N49AP",
@@ -862,8 +983,9 @@
     "identifier": "iPhone5,4",
     "generation": "iPhone 5c",
     "models": [
-      "MF154",
-      "MF326"
+      "MF092",
+      "MF326",
+      "MF104"
     ],
     "internal_name": "N49AP",
     "storage": "32 GB"
@@ -875,7 +997,8 @@
     "models": [
       "MG0R2",
       "MG1R2",
-      "MG8Y2"
+      "MG8Y2",
+      "MG142"
     ],
     "internal_name": "N49AP",
     "storage": "8 GB"
@@ -885,8 +1008,11 @@
     "identifier": "iPhone5,4",
     "generation": "iPhone 5c",
     "models": [
+      "MF322",
+      "ME500",
       "ME554",
-      "MF322"
+      "ME680",
+      "MF317"
     ],
     "internal_name": "N49AP",
     "storage": "16 GB"
@@ -896,8 +1022,9 @@
     "identifier": "iPhone5,4",
     "generation": "iPhone 5c",
     "models": [
-      "MF155",
-      "MF327"
+      "MF327",
+      "MF093",
+      "MF105"
     ],
     "internal_name": "N49AP",
     "storage": "32 GB"
@@ -911,7 +1038,8 @@
       "ME307",
       "ME325",
       "ME343",
-      "ME334"
+      "ME334",
+      "3H429"
     ],
     "internal_name": "N51AP",
     "storage": "16 GB"
@@ -953,7 +1081,8 @@
       "ME306",
       "ME324",
       "ME333",
-      "ME342"
+      "ME342",
+      "ME451"
     ],
     "internal_name": "N51AP",
     "storage": "16 GB"
@@ -1039,7 +1168,8 @@
       "ME434",
       "MF354",
       "MF398",
-      "MF363"
+      "MF363",
+      "ME382"
     ],
     "internal_name": "N53AP",
     "storage": "16 GB"
@@ -1105,7 +1235,8 @@
     "generation": "iPhone 5s",
     "models": [
       "ME432",
-      "MF352"
+      "MF352",
+      "ME450"
     ],
     "internal_name": "N53AP",
     "storage": "16 GB"
@@ -1142,7 +1273,8 @@
       "MG4Q2",
       "MG562",
       "MG5Y2",
-      "MG6C2"
+      "MG6C2",
+      "3A020"
     ],
     "internal_name": "N61AP",
     "storage": "16 GB"
@@ -1196,10 +1328,23 @@
       "MG5X2",
       "MG552",
       "MG6A2",
-      "MG7W2"
+      "MG7W2",
+      "MGRP2",
+      "3A019"
     ],
     "internal_name": "N61AP",
     "storage": "16 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPhone7,2",
+    "generation": "iPhone 6",
+    "models": [
+      "MQ3K2",
+      "MQ352"
+    ],
+    "internal_name": "N61AP",
+    "storage": "32 GB"
   },
   {
     "finish": "Silver",
@@ -1240,7 +1385,8 @@
       "MG5H2",
       "MG5W2",
       "MG542",
-      "MG692"
+      "MG692",
+      "3A018"
     ],
     "internal_name": "N61AP",
     "storage": "16 GB"
@@ -1251,6 +1397,7 @@
     "generation": "iPhone 6",
     "models": [
       "MQ3D2",
+      "MQ3X2",
       "MQ462"
     ],
     "internal_name": "N61AP",
@@ -1279,7 +1426,8 @@
       "MG3E2",
       "MG4A2",
       "MG4R2",
-      "MG602"
+      "MG602",
+      "3A045"
     ],
     "internal_name": "N61AP",
     "storage": "128 GB"
@@ -1293,7 +1441,8 @@
       "MGAN2",
       "MGC12",
       "MGCM2",
-      "MGCX2"
+      "MGCX2",
+      "3A065"
     ],
     "internal_name": "N56AP",
     "storage": "16 GB"
@@ -1333,7 +1482,8 @@
       "MGC92",
       "MGAM2",
       "MGC02",
-      "MGCL2"
+      "MGCL2",
+      "3A061"
     ],
     "internal_name": "N56AP",
     "storage": "16 GB"
@@ -1372,7 +1522,8 @@
       "MGA82",
       "MGAL2",
       "MGAX2",
-      "MGCK2"
+      "MGCK2",
+      "3A060"
     ],
     "internal_name": "N56AP",
     "storage": "16 GB"
@@ -1414,7 +1565,8 @@
       "MKRE2",
       "MKRW2",
       "MKT92",
-      "ML7E2"
+      "ML7E2",
+      "3A574"
     ],
     "internal_name": "N71AP",
     "storage": "16 GB"
@@ -1429,7 +1581,8 @@
       "MN1K2",
       "MN1U2",
       "MN1Y2",
-      "MN112"
+      "MN112",
+      "3C103"
     ],
     "internal_name": "N71AP",
     "storage": "32 GB"
@@ -1477,7 +1630,8 @@
       "MKRX2",
       "MKR22",
       "MKTA2",
-      "ML7F2"
+      "ML7F2",
+      "3A503"
     ],
     "internal_name": "N71AP",
     "storage": "16 GB"
@@ -1604,7 +1758,8 @@
       "MKRC2",
       "MKRR2",
       "MKT72",
-      "ML7C2"
+      "ML7C2",
+      "3A572"
     ],
     "internal_name": "N71AP",
     "storage": "16 GB"
@@ -1619,7 +1774,8 @@
       "MN1E2",
       "MN1M2",
       "MN1W2",
-      "MN0W2"
+      "MN0W2",
+      "3C101"
     ],
     "internal_name": "N71AP",
     "storage": "32 GB"
@@ -1667,7 +1823,8 @@
       "MKV62",
       "MKVQ2",
       "MKW72",
-      "ML6D2"
+      "ML6D2",
+      "3A550"
     ],
     "internal_name": "N66AP",
     "storage": "16 GB"
@@ -1677,7 +1834,8 @@
     "identifier": "iPhone8,2",
     "generation": "iPhone 6s Plus",
     "models": [
-      "MN2X2"
+      "MN2X2",
+      "MN362"
     ],
     "internal_name": "N66AP",
     "storage": "32 GB"
@@ -1725,7 +1883,8 @@
       "MKUP2",
       "MKV72",
       "MKVU2",
-      "MKW82"
+      "MKW82",
+      "3A632"
     ],
     "internal_name": "N66AP",
     "storage": "16 GB"
@@ -1735,7 +1894,8 @@
     "identifier": "iPhone8,2",
     "generation": "iPhone 6s Plus",
     "models": [
-      "MN2Y2"
+      "MN2Y2",
+      "MN372"
     ],
     "internal_name": "N66AP",
     "storage": "32 GB"
@@ -1791,6 +1951,17 @@
     "identifier": "iPhone8,2",
     "generation": "iPhone 6s Plus",
     "models": [
+      "MN2W2",
+      "MN352"
+    ],
+    "internal_name": "N66AP",
+    "storage": "32 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPhone8,2",
+    "generation": "iPhone 6s Plus",
+    "models": [
       "MKTR2",
       "MKU72",
       "MKUU2",
@@ -1839,7 +2010,8 @@
     "identifier": "iPhone8,2",
     "generation": "iPhone 6s Plus",
     "models": [
-      "MN2V2"
+      "MN2V2",
+      "MN342"
     ],
     "internal_name": "N66AP",
     "storage": "32 GB"
@@ -1887,7 +2059,8 @@
       "MLY12",
       "MLY52",
       "MLY92",
-      "MLXM2"
+      "MLXM2",
+      "3A850"
     ],
     "internal_name": "N69AP",
     "storage": "16 GB"
@@ -1902,7 +2075,8 @@
       "MP8H2",
       "MP8M2",
       "MP7V2",
-      "MP842"
+      "MP842",
+      "3C721"
     ],
     "internal_name": "N69AP",
     "storage": "32 GB"
@@ -1947,7 +2121,8 @@
       "MLY22",
       "MLY62",
       "MLYA2",
-      "MLXN2"
+      "MLXN2",
+      "3A844"
     ],
     "internal_name": "N69AP",
     "storage": "16 GB"
@@ -2067,7 +2242,8 @@
       "MLLW2",
       "MLLY2",
       "MLM22",
-      "MLLN2"
+      "MLLN2",
+      "3A764"
     ],
     "internal_name": "N69AP",
     "storage": "16 GB"
@@ -2082,7 +2258,8 @@
       "MP8F2",
       "MP8K2",
       "MP7T2",
-      "MP822"
+      "MP822",
+      "3C715"
     ],
     "internal_name": "N69AP",
     "storage": "32 GB"
@@ -2140,7 +2317,8 @@
       "MNAJ2",
       "MNC32",
       "MNCK2",
-      "MNGX2"
+      "MNGX2",
+      "3C302"
     ],
     "internal_name": "D10AP",
     "storage": "128 GB"
@@ -2207,7 +2385,8 @@
       "MN8Q2",
       "MNAP2",
       "MNC72",
-      "MNCP2"
+      "MNCP2",
+      "3C220"
     ],
     "internal_name": "D10AP",
     "storage": "128 GB"
@@ -2538,7 +2717,8 @@
       "MNR12",
       "MNR52",
       "MNR92",
-      "MNRJ2"
+      "MNRJ2",
+      "3C372"
     ],
     "internal_name": "D11AP",
     "storage": "32 GB"
@@ -2655,6 +2835,7 @@
     "models": [
       "MPR12",
       "MPR02",
+      "MPR42",
       "MPQV2",
       "MPQW2"
     ],
@@ -2725,7 +2906,8 @@
       "MNR22",
       "MNR62",
       "MNRA2",
-      "MNRK2"
+      "MNRK2",
+      "3C401"
     ],
     "internal_name": "D11AP",
     "storage": "32 GB"
@@ -3008,7 +3190,8 @@
       "MQ722",
       "MQ752",
       "MQ782",
-      "MX8H2"
+      "MX8H2",
+      "3D032"
     ],
     "internal_name": "D20AP",
     "storage": "64 GB"
@@ -3115,7 +3298,8 @@
     "models": [
       "MQ6G2",
       "MQ6V2",
-      "MQ6Y2"
+      "MQ6Y2",
+      "3D038"
     ],
     "internal_name": "D201AP",
     "storage": "64 GB"
@@ -3164,7 +3348,8 @@
       "MQ8F2",
       "MQ9F2",
       "MQ982",
-      "MQ9M2"
+      "MQ9M2",
+      "3D061"
     ],
     "internal_name": "D21AP",
     "storage": "64 GB"
@@ -3216,7 +3401,8 @@
       "MQ8D2",
       "MQ9D2",
       "MQ962",
-      "MQ9K2"
+      "MQ9K2",
+      "3D065"
     ],
     "internal_name": "D21AP",
     "storage": "64 GB"
@@ -3241,7 +3427,8 @@
     "models": [
       "MRTG2",
       "MRTJ2",
-      "MRT72"
+      "MRT72",
+      "3D795"
     ],
     "internal_name": "D21AP",
     "storage": "64 GB"
@@ -3362,7 +3549,8 @@
       "MQCT2",
       "MQCL2",
       "MQAY2",
-      "MQA62"
+      "MQA62",
+      "3D063"
     ],
     "internal_name": "D22AP",
     "storage": "64 GB"
@@ -3462,7 +3650,8 @@
       "MT3K2",
       "MT2E2",
       "MT302",
-      "MT472"
+      "MT472",
+      "3D823"
     ],
     "internal_name": "N841AP",
     "storage": "64 GB"
@@ -3618,7 +3807,8 @@
       "MT3L2",
       "MT2F2",
       "MT312",
-      "MT482"
+      "MT482",
+      "3D830"
     ],
     "internal_name": "N841AP",
     "storage": "64 GB"
@@ -4173,7 +4363,8 @@
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
-      "MT132"
+      "MT132",
+      "3D842"
     ],
     "internal_name": "N841AP",
     "storage": "64 GB"
@@ -4203,7 +4394,8 @@
     "identifier": "iPhone11,8",
     "generation": "iPhone XR",
     "models": [
-      "MT162"
+      "MT162",
+      "3D844"
     ],
     "internal_name": "N841AP",
     "storage": "64 GB"
@@ -4321,7 +4513,8 @@
       "MTA02",
       "MT8J2",
       "MTAG2",
-      "MT942"
+      "MT942",
+      "3D904"
     ],
     "internal_name": "D321AP",
     "storage": "64 GB"
@@ -4419,7 +4612,8 @@
     "identifier": "iPhone11,2",
     "generation": "iPhone XS",
     "models": [
-      "MT9E2"
+      "MT9E2",
+      "3D928"
     ],
     "internal_name": "D321AP",
     "storage": "64 GB"
@@ -4599,7 +4793,8 @@
     "identifier": "iPhone11,2",
     "generation": "iPhone XS",
     "models": [
-      "MT9P2"
+      "MT9P2",
+      "3D919"
     ],
     "internal_name": "D321AP",
     "storage": "64 GB"
@@ -4937,7 +5132,8 @@
     "identifier": "iPhone11,6",
     "generation": "iPhone XS Max",
     "models": [
-      "MT732"
+      "MT732",
+      "3D900"
     ],
     "internal_name": "D331pAP",
     "storage": "64 GB"
@@ -5122,7 +5318,8 @@
       "MWJE2",
       "MWKM2",
       "MWL72",
-      "MHCP3"
+      "MHCP3",
+      "3F946"
     ],
     "internal_name": "N104AP",
     "storage": "64 GB"
@@ -5234,7 +5431,8 @@
       "MWKH2",
       "MWJV2",
       "MWL32",
-      "MWLN2"
+      "MWLN2",
+      "3F942"
     ],
     "internal_name": "N104AP",
     "storage": "256 GB"
@@ -5333,7 +5531,8 @@
       "MWK32",
       "MWJH2",
       "MWKQ2",
-      "MWLA2"
+      "MWLA2",
+      "3F955"
     ],
     "internal_name": "N104AP",
     "storage": "64 GB"
@@ -5411,7 +5610,8 @@
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
-      "MWM62"
+      "MWM62",
+      "MHDN3"
     ],
     "internal_name": "N104AP",
     "storage": "128 GB"
@@ -5551,7 +5751,8 @@
     "identifier": "iPhone12,1",
     "generation": "iPhone 11",
     "models": [
-      "MWN02"
+      "MWN02",
+      "3F964"
     ],
     "internal_name": "N104AP",
     "storage": "64 GB"
@@ -5861,7 +6062,8 @@
       "MWA62",
       "MW9Q2",
       "MWAM2",
-      "MWCH2"
+      "MWCH2",
+      "3F862"
     ],
     "internal_name": "D421AP",
     "storage": "64 GB"
@@ -6019,7 +6221,8 @@
     "identifier": "iPhone12,3",
     "generation": "iPhone 11 Pro",
     "models": [
-      "MWDC2"
+      "MWDC2",
+      "3F888"
     ],
     "internal_name": "D421AP",
     "storage": "64 GB"
@@ -6269,7 +6472,8 @@
       "MWG22",
       "MWFN2",
       "MWGF2",
-      "MWGY2"
+      "MWGY2",
+      "3F918"
     ],
     "internal_name": "D431AP",
     "storage": "64 GB"
@@ -6337,7 +6541,8 @@
     "identifier": "iPhone12,5",
     "generation": "iPhone 11 Pro Max",
     "models": [
-      "MWHH2"
+      "MWHH2",
+      "3F921"
     ],
     "internal_name": "D431AP",
     "storage": "64 GB"
@@ -6437,7 +6642,8 @@
     "identifier": "iPhone12,5",
     "generation": "iPhone 11 Pro Max",
     "models": [
-      "MWF32"
+      "MWF32",
+      "MWHJ2"
     ],
     "internal_name": "D431AP",
     "storage": "256 GB"
@@ -6610,7 +6816,8 @@
       "MHHC3",
       "MHG43",
       "MHF83",
-      "MHGE3"
+      "MHGE3",
+      "3G353"
     ],
     "internal_name": "D79AP",
     "storage": "64 GB"
@@ -6763,7 +6970,8 @@
       "MG703",
       "MG6G3",
       "MG8F3",
-      "MGA03"
+      "MGA03",
+      "3H470"
     ],
     "internal_name": "D52gAP",
     "storage": "64 GB"
@@ -6916,7 +7124,8 @@
       "MG7K3",
       "MG733",
       "MG6K3",
-      "MGAP3"
+      "MGAP3",
+      "3H455"
     ],
     "internal_name": "D52gAP",
     "storage": "64 GB"
@@ -6967,7 +7176,8 @@
       "MJQ83",
       "MJQF3",
       "MJQ53",
-      "MJQC3"
+      "MJQC3",
+      "3J245"
     ],
     "internal_name": "D52gAP",
     "storage": "64 GB"
@@ -7018,7 +7228,8 @@
       "MGFM3",
       "MGF53",
       "MGH73",
-      "MGHP3"
+      "MGHP3",
+      "3H516"
     ],
     "internal_name": "D53gAP",
     "storage": "64 GB"
@@ -7222,7 +7433,8 @@
       "MGG83",
       "MGFP3",
       "MGF73",
-      "MGHR3"
+      "MGHR3",
+      "3H493"
     ],
     "internal_name": "D53gAP",
     "storage": "64 GB"
@@ -7324,7 +7536,8 @@
       "MGKH3",
       "MGK23",
       "MGLP3",
-      "MGM63"
+      "MGM63",
+      "3H529"
     ],
     "internal_name": "D53pAP",
     "storage": "128 GB"
@@ -7375,7 +7588,8 @@
       "MGKG3",
       "MGK13",
       "MGLN3",
-      "MGM53"
+      "MGM53",
+      "3H541"
     ],
     "internal_name": "D53pAP",
     "storage": "128 GB"
@@ -7426,7 +7640,8 @@
       "MGKJ3",
       "MGK33",
       "MGLQ3",
-      "MGM73"
+      "MGM73",
+      "3H543"
     ],
     "internal_name": "D53pAP",
     "storage": "128 GB"
@@ -7579,7 +7794,8 @@
       "MG9P3",
       "MG9A3",
       "MGCF3",
-      "MGCU3"
+      "MGCU3",
+      "3H429"
     ],
     "internal_name": "D54pAP",
     "storage": "128 GB"
@@ -7681,7 +7897,8 @@
       "MGAF3",
       "MG9T3",
       "MG9E3",
-      "MGCX3"
+      "MGCX3",
+      "3H432"
     ],
     "internal_name": "D54pAP",
     "storage": "128 GB"
@@ -7728,7 +7945,8 @@
       "MLK33",
       "MLHQ3",
       "MLDF3",
-      "MLJG3"
+      "MLJG3",
+      "3J748"
     ],
     "internal_name": "D16AP",
     "storage": "128 GB"
@@ -7767,7 +7985,8 @@
       "MLK13",
       "MLHN3",
       "MLDD3",
-      "MLJE3"
+      "MLJE3",
+      "3J745"
     ],
     "internal_name": "D16AP",
     "storage": "128 GB"
@@ -7845,7 +8064,8 @@
       "MLK43",
       "MLHR3",
       "MLDG3",
-      "MLJH3"
+      "MLJH3",
+      "3J749"
     ],
     "internal_name": "D16AP",
     "storage": "128 GB"
@@ -7884,7 +8104,8 @@
       "MLK23",
       "MLHP3",
       "MLDE3",
-      "MLJF3"
+      "MLJF3",
+      "3J732"
     ],
     "internal_name": "D16AP",
     "storage": "128 GB"
@@ -8001,7 +8222,8 @@
       "MLPG3",
       "MLMM3",
       "MLDV3",
-      "MLND3"
+      "MLND3",
+      "3J818"
     ],
     "internal_name": "D17AP",
     "storage": "128 GB"
@@ -8037,10 +8259,12 @@
     "identifier": "iPhone14,5",
     "generation": "iPhone 13",
     "models": [
+      "MLA23",
       "MLPF3",
       "MLML3",
       "MLDU3",
-      "MLNC3"
+      "MLNC3",
+      "3J817"
     ],
     "internal_name": "D17AP",
     "storage": "128 GB"
@@ -8079,7 +8303,8 @@
       "MLPK3",
       "MLMT3",
       "MLDY3",
-      "MLNG3"
+      "MLNG3",
+      "3J821"
     ],
     "internal_name": "D17AP",
     "storage": "128 GB"
@@ -8157,7 +8382,8 @@
       "MNGD3",
       "MNG93",
       "MNGK3",
-      "MNGG3"
+      "MNGG3",
+      "3K581"
     ],
     "internal_name": "D17AP",
     "storage": "128 GB"
@@ -8195,7 +8421,8 @@
     "models": [
       "MLV93",
       "MLTP3",
-      "MLT53"
+      "MLT53",
+      "3J854"
     ],
     "internal_name": "D63AP",
     "storage": "128 GB"
@@ -8243,7 +8470,8 @@
     "models": [
       "MLVC3",
       "MLTR3",
-      "MLT73"
+      "MLT73",
+      "3J856"
     ],
     "internal_name": "D63AP",
     "storage": "128 GB"
@@ -8388,7 +8616,8 @@
     "models": [
       "MNDT3",
       "MNDN3",
-      "MNE23"
+      "MNE23",
+      "3K554"
     ],
     "internal_name": "D63AP",
     "storage": "128 GB"
@@ -8436,7 +8665,8 @@
     "models": [
       "MLL63",
       "MLKL3",
-      "MLH43"
+      "MLH43",
+      "3J782"
     ],
     "internal_name": "D64AP",
     "storage": "128 GB"
@@ -8580,7 +8810,8 @@
     "models": [
       "MLL93",
       "MLKP3",
-      "MLH73"
+      "MLH73",
+      "3J785"
     ],
     "internal_name": "D64AP",
     "storage": "128 GB"
@@ -8678,7 +8909,8 @@
       "MMWV3",
       "MMXF3",
       "MMYC3",
-      "MNA93"
+      "MNA93",
+      "3D423"
     ],
     "internal_name": "D49AP",
     "storage": "64 GB"
@@ -8717,7 +8949,8 @@
       "MMX63",
       "MMWW3",
       "MMXG3",
-      "MMYD3"
+      "MMYD3",
+      "3K421"
     ],
     "internal_name": "D49AP",
     "storage": "64 GB"
@@ -8756,7 +8989,8 @@
       "MMX73",
       "MMWX3",
       "MMXH3",
-      "MMYE3"
+      "MMYE3",
+      "3K422"
     ],
     "internal_name": "D49AP",
     "storage": "64 GB"
@@ -8795,7 +9029,8 @@
       "MPVN3",
       "MPVH3",
       "MPVG3",
-      "MPVJ3"
+      "MPVJ3",
+      "3L235"
     ],
     "internal_name": "D27AP",
     "storage": "128 GB"
@@ -8834,7 +9069,8 @@
       "MPUF3",
       "MPUA3",
       "MPU93",
-      "MPUD3"
+      "MPUD3",
+      "3L212"
     ],
     "internal_name": "D27AP",
     "storage": "128 GB"
@@ -8873,7 +9109,8 @@
       "MPUR3",
       "MPUN3",
       "MPUJ3",
-      "MPUQ3"
+      "MPUQ3",
+      "3L218"
     ],
     "internal_name": "D27AP",
     "storage": "128 GB"
@@ -8912,7 +9149,8 @@
       "MPVA3",
       "MPV73",
       "MPV63",
-      "MPV93"
+      "MPV93",
+      "3L230"
     ],
     "internal_name": "D27AP",
     "storage": "128 GB"
@@ -8951,7 +9189,8 @@
       "MPV03",
       "MPUX3",
       "MPUW3",
-      "MPUY3"
+      "MPUY3",
+      "3L223"
     ],
     "internal_name": "D27AP",
     "storage": "128 GB"
@@ -9029,7 +9268,8 @@
       "MQ523",
       "MQ3W3",
       "MQ3A3",
-      "MQ4H3"
+      "MQ4H3",
+      "3L269"
     ],
     "internal_name": "D28AP",
     "storage": "128 GB"
@@ -9068,7 +9308,8 @@
       "MQ4X3",
       "MQ3R3",
       "MQ353",
-      "MQ4A3"
+      "MQ4A3",
+      "3L265"
     ],
     "internal_name": "D28AP",
     "storage": "128 GB"
@@ -9107,7 +9348,8 @@
       "MQ4Y3",
       "MQ3T3",
       "MQ363",
-      "MQ4D3"
+      "MQ4D3",
+      "3L266"
     ],
     "internal_name": "D28AP",
     "storage": "128 GB"
@@ -9146,7 +9388,8 @@
       "MQ513",
       "MQ3V3",
       "MQ393",
-      "MQ4F3"
+      "MQ4F3",
+      "3L273"
     ],
     "internal_name": "D28AP",
     "storage": "128 GB"
@@ -9185,7 +9428,8 @@
       "MQ503",
       "MQ3U3",
       "MQ373",
-      "MQ4E3"
+      "MQ4E3",
+      "3L267"
     ],
     "internal_name": "D28AP",
     "storage": "128 GB"
@@ -9224,7 +9468,8 @@
       "MR5N3",
       "MR693",
       "MR603",
-      "MR593"
+      "MR593",
+      "3L862"
     ],
     "internal_name": "D28AP",
     "storage": "128 GB"
@@ -9315,7 +9560,8 @@
       "MQ063",
       "MQ083",
       "MQ053",
-      "MQ073"
+      "MQ073",
+      "3L253"
     ],
     "internal_name": "D73AP",
     "storage": "128 GB"
@@ -9367,7 +9613,8 @@
       "MQ003",
       "MQ023",
       "MPXY3",
-      "MQ013"
+      "MQ013",
+      "3L248"
     ],
     "internal_name": "D73AP",
     "storage": "128 GB"
@@ -9419,7 +9666,8 @@
       "MPXT3",
       "MPXV3",
       "MPXR3",
-      "MPXU3"
+      "MPXU3",
+      "3L241"
     ],
     "internal_name": "D73AP",
     "storage": "128 GB"
@@ -9471,7 +9719,8 @@
       "MQ9T3",
       "MQ8R3",
       "MQ863",
-      "MQ993"
+      "MQ993",
+      "3L306"
     ],
     "internal_name": "D74AP",
     "storage": "128 GB"
@@ -9523,7 +9772,8 @@
       "MQ9R3",
       "MQ8Q3",
       "MQ853",
-      "MQ983"
+      "MQ983",
+      "3L305"
     ],
     "internal_name": "D74AP",
     "storage": "128 GB"
@@ -9627,7 +9877,8 @@
       "MQ9P3",
       "MQ8N3",
       "MQ833",
-      "MQ963"
+      "MQ963",
+      "3L303"
     ],
     "internal_name": "D74AP",
     "storage": "128 GB"
@@ -9679,7 +9930,8 @@
       "MTP43",
       "MTML3",
       "MTLG3",
-      "MTLY3"
+      "MTLY3",
+      "3M410"
     ],
     "internal_name": "D37AP",
     "storage": "128 GB"
@@ -9718,7 +9970,8 @@
       "MTP13",
       "MTMJ3",
       "MTLE3",
-      "MTLW3"
+      "MTLW3",
+      "3M408"
     ],
     "internal_name": "D37AP",
     "storage": "128 GB"
@@ -9757,7 +10010,8 @@
       "MTP23",
       "MTMK3",
       "MTLF3",
-      "MTLX3"
+      "MTLX3",
+      "3M409"
     ],
     "internal_name": "D37AP",
     "storage": "128 GB"
@@ -9796,7 +10050,8 @@
       "MTP53",
       "MTMM3",
       "MTLH3",
-      "MTM23"
+      "MTM23",
+      "3M411"
     ],
     "internal_name": "D37AP",
     "storage": "128 GB"
@@ -9835,7 +10090,8 @@
       "MTP03",
       "MTMH3",
       "MTLD3",
-      "MTLV3"
+      "MTLV3",
+      "3M422"
     ],
     "internal_name": "D37AP",
     "storage": "128 GB"
@@ -9874,7 +10130,8 @@
       "MU163",
       "MU0D3",
       "MTXD3",
-      "MTXV3"
+      "MTXV3",
+      "3M447"
     ],
     "internal_name": "D38AP",
     "storage": "128 GB"
@@ -9913,7 +10170,8 @@
       "MU103",
       "MU093",
       "MTXA3",
-      "MTXT3"
+      "MTXT3",
+      "3M448"
     ],
     "internal_name": "D38AP",
     "storage": "128 GB"
@@ -9952,7 +10210,8 @@
       "MU123",
       "MU0A3",
       "MTXC3",
-      "MTXU3"
+      "MTXU3",
+      "3M449"
     ],
     "internal_name": "D38AP",
     "storage": "128 GB"
@@ -9991,7 +10250,8 @@
       "MU173",
       "MU0E3",
       "MTXE3",
-      "MTXW3"
+      "MTXW3",
+      "3M451"
     ],
     "internal_name": "D38AP",
     "storage": "128 GB"
@@ -10030,7 +10290,8 @@
       "MU0Y3",
       "MU083",
       "MTX93",
-      "MTXR3"
+      "MTXR3",
+      "3M452"
     ],
     "internal_name": "D38AP",
     "storage": "128 GB"
@@ -10069,7 +10330,8 @@
       "MTUX3",
       "MTU93",
       "MTQ63",
-      "MTQP3"
+      "MTQP3",
+      "3M438"
     ],
     "internal_name": "D83AP",
     "storage": "128 GB"
@@ -10082,7 +10344,8 @@
       "MTV53",
       "MTUF3",
       "MTQA3",
-      "MTQU3"
+      "MTQU3",
+      "3M734"
     ],
     "internal_name": "D83AP",
     "storage": "256 GB"
@@ -10121,7 +10384,8 @@
       "MTV03",
       "MTUA3",
       "MTQ73",
-      "MTQQ3"
+      "MTQQ3",
+      "3M427"
     ],
     "internal_name": "D83AP",
     "storage": "128 GB"
@@ -10173,7 +10437,8 @@
       "MTUW3",
       "MTU83",
       "MTQ53",
-      "MTQN3"
+      "MTQN3",
+      "3M428"
     ],
     "internal_name": "D83AP",
     "storage": "128 GB"
@@ -10225,7 +10490,8 @@
       "MTUV3",
       "MTU73",
       "MTQ43",
-      "MTQM3"
+      "MTQM3",
+      "3M435"
     ],
     "internal_name": "D83AP",
     "storage": "128 GB"
@@ -10277,7 +10543,8 @@
       "MU793",
       "MU6R3",
       "MU2Q3",
-      "MU683"
+      "MU683",
+      "3M374"
     ],
     "internal_name": "D84AP",
     "storage": "256 GB"
@@ -10316,7 +10583,8 @@
       "MU7A3",
       "MU6T3",
       "MU2R3",
-      "MU693"
+      "MU693",
+      "3M735"
     ],
     "internal_name": "D84AP",
     "storage": "256 GB"
@@ -10355,7 +10623,8 @@
       "MU783",
       "MU6Q3",
       "MU2P3",
-      "MU673"
+      "MU673",
+      "3M733"
     ],
     "internal_name": "D84AP",
     "storage": "256 GB"
@@ -10433,7 +10702,8 @@
       "MYEC3",
       "MYAT3",
       "MYDU3",
-      "MYEY3"
+      "MYEY3",
+      "3N384"
     ],
     "internal_name": "D47AP",
     "storage": "128 GB"
@@ -10472,7 +10742,8 @@
       "MYED3",
       "MYAW3",
       "MYDV3",
-      "MYF03"
+      "MYF03",
+      "3N385"
     ],
     "internal_name": "D47AP",
     "storage": "128 GB"
@@ -10511,7 +10782,8 @@
       "MYEA3",
       "MYAR3",
       "MYDT3",
-      "MYEX3"
+      "MYEX3",
+      "3N383"
     ],
     "internal_name": "D47AP",
     "storage": "128 GB"
@@ -10550,7 +10822,8 @@
       "MYE93",
       "MYAQ3",
       "MYDR3",
-      "MYEW3"
+      "MYEW3",
+      "3N382"
     ],
     "internal_name": "D47AP",
     "storage": "128 GB"
@@ -10589,7 +10862,8 @@
       "MYE73",
       "MYAP3",
       "MYDQ3",
-      "MYEV3"
+      "MYEV3",
+      "3N381"
     ],
     "internal_name": "D47AP",
     "storage": "128 GB"
@@ -10628,7 +10902,8 @@
       "MXVX3",
       "MXUW3",
       "MXVE3",
-      "MXUD3"
+      "MXUD3",
+      "3N336"
     ],
     "internal_name": "D48AP",
     "storage": "128 GB"
@@ -10667,7 +10942,8 @@
       "MXVY3",
       "MXUX3",
       "MXVF3",
-      "MXUE3"
+      "MXUE3",
+      "3N337"
     ],
     "internal_name": "D48AP",
     "storage": "128 GB"
@@ -10706,7 +10982,8 @@
       "MXVW3",
       "MXUV3",
       "MXVD3",
-      "MXUC3"
+      "MXUC3",
+      "3N335"
     ],
     "internal_name": "D48AP",
     "storage": "128 GB"
@@ -10745,7 +11022,8 @@
       "MXVV3",
       "MXUU3",
       "MXVC3",
-      "MXUA3"
+      "MXUA3",
+      "3N334"
     ],
     "internal_name": "D48AP",
     "storage": "128 GB"
@@ -10784,7 +11062,8 @@
       "MXVU3",
       "MXUT3",
       "MXVA3",
-      "MXU93"
+      "MXU93",
+      "3N333"
     ],
     "internal_name": "D48AP",
     "storage": "128 GB"
@@ -10823,7 +11102,8 @@
       "MYNF3",
       "MYMC3",
       "MYMX3",
-      "MYLQ3"
+      "MYLQ3",
+      "3N349"
     ],
     "internal_name": "D93AP",
     "storage": "128 GB"
@@ -10836,7 +11116,8 @@
       "MYNK3",
       "MYMJ3",
       "MYN23",
-      "MYLV3"
+      "MYLV3",
+      "3N737"
     ],
     "internal_name": "D93AP",
     "storage": "256 GB"
@@ -10875,7 +11156,8 @@
       "MYNG3",
       "MYMD3",
       "MYMY3",
-      "MYLR3"
+      "MYLR3",
+      "3N350"
     ],
     "internal_name": "D93AP",
     "storage": "128 GB"
@@ -10888,7 +11170,8 @@
       "MYNL3",
       "MYMK3",
       "MYN33",
-      "MYLW3"
+      "MYLW3",
+      "3N742"
     ],
     "internal_name": "D93AP",
     "storage": "256 GB"
@@ -10927,7 +11210,8 @@
       "MYNE3",
       "MYMA3",
       "MYMW3",
-      "MYLP3"
+      "MYLP3",
+      "3N348"
     ],
     "internal_name": "D93AP",
     "storage": "128 GB"
@@ -10940,7 +11224,8 @@
       "MYNJ3",
       "MYMH3",
       "MYN13",
-      "MYLU3"
+      "MYLU3",
+      "3N740"
     ],
     "internal_name": "D93AP",
     "storage": "256 GB"
@@ -10979,7 +11264,8 @@
       "MYND3",
       "MYM93",
       "MYMV3",
-      "MYLN3"
+      "MYLN3",
+      "3N347"
     ],
     "internal_name": "D93AP",
     "storage": "128 GB"
@@ -10992,7 +11278,8 @@
       "MYNH3",
       "MYMG3",
       "MYN03",
-      "MYLT3"
+      "MYLT3",
+      "3N739"
     ],
     "internal_name": "D93AP",
     "storage": "256 GB"
@@ -11031,7 +11318,8 @@
       "MYWX3",
       "MYW53",
       "MYWJ3",
-      "MYTP3"
+      "MYTP3",
+      "3N522"
     ],
     "internal_name": "D94AP",
     "storage": "256 GB"
@@ -11070,7 +11358,8 @@
       "MYWY3",
       "MYW63",
       "MYWK3",
-      "MYTQ3"
+      "MYTQ3",
+      "3N523"
     ],
     "internal_name": "D94AP",
     "storage": "256 GB"
@@ -11109,7 +11398,8 @@
       "MYWW3",
       "MYW43",
       "MYWH3",
-      "MYTN3"
+      "MYTN3",
+      "3N521"
     ],
     "internal_name": "D94AP",
     "storage": "256 GB"
@@ -11148,7 +11438,8 @@
       "MYWV3",
       "MYW33",
       "MYWG3",
-      "MYTM3"
+      "MYTM3",
+      "3N520"
     ],
     "internal_name": "D94AP",
     "storage": "256 GB"
@@ -11187,7 +11478,8 @@
       "MD0E4",
       "MD1R4",
       "MD1G4",
-      "MD2C4"
+      "MD2C4",
+      "3N757"
     ],
     "internal_name": "V59AP",
     "storage": "128 GB"
@@ -11226,7 +11518,8 @@
       "MD0D4",
       "MD1Q4",
       "MD1F4",
-      "MD2A4"
+      "MD2A4",
+      "3N756"
     ],
     "internal_name": "V59AP",
     "storage": "128 GB"
@@ -11264,7 +11557,8 @@
     "models": [
       "MG2P4",
       "MG1D4",
-      "MG364"
+      "MG364",
+      "3P140"
     ],
     "internal_name": "D23AP",
     "storage": "256 GB"
@@ -11300,7 +11594,8 @@
     "models": [
       "MG2N4",
       "MG1A4",
-      "MG344"
+      "MG344",
+      "3P155"
     ],
     "internal_name": "D23AP",
     "storage": "256 GB"
@@ -11336,7 +11631,8 @@
     "models": [
       "MG2M4",
       "MG194",
-      "MG334"
+      "MG334",
+      "3P151"
     ],
     "internal_name": "D23AP",
     "storage": "256 GB"
@@ -11372,7 +11668,8 @@
     "models": [
       "MG2L4",
       "MG184",
-      "MG314"
+      "MG314",
+      "3P149"
     ],
     "internal_name": "D23AP",
     "storage": "256 GB"
@@ -11409,7 +11706,8 @@
       "MG6M4",
       "MG494",
       "MG6A4",
-      "MG704"
+      "MG704",
+      "3P182"
     ],
     "internal_name": "V57AP",
     "storage": "256 GB"
@@ -11435,7 +11733,8 @@
       "MG6N4",
       "MG4A4",
       "MG6C4",
-      "MG714"
+      "MG714",
+      "3P203"
     ],
     "internal_name": "V57AP",
     "storage": "256 GB"
@@ -11461,7 +11760,8 @@
       "MG6L4",
       "MG484",
       "MG694",
-      "MG6Y4"
+      "MG6Y4",
+      "3P196"
     ],
     "internal_name": "V57AP",
     "storage": "256 GB"
@@ -11487,7 +11787,8 @@
       "MG6K4",
       "MG474",
       "MG684",
-      "MG6X4"
+      "MG6X4",
+      "3P195"
     ],
     "internal_name": "V57AP",
     "storage": "256 GB"
@@ -11513,7 +11814,8 @@
       "MG6J4",
       "MG464",
       "MG674",
-      "MG6W4"
+      "MG6W4",
+      "3P184"
     ],
     "internal_name": "V57AP",
     "storage": "256 GB"
@@ -11539,7 +11841,8 @@
       "MG8G4",
       "MG7K4",
       "MG854",
-      "MG8T4"
+      "MG8T4",
+      "3P161"
     ],
     "internal_name": "V53AP",
     "storage": "256 GB"
@@ -11578,7 +11881,8 @@
       "MG8H4",
       "MG7L4",
       "MG864",
-      "MG8U4"
+      "MG8U4",
+      "3P121"
     ],
     "internal_name": "V53AP",
     "storage": "256 GB"
@@ -11617,7 +11921,8 @@
       "MG8J4",
       "MG7M4",
       "MG874",
-      "MG8V4"
+      "MG8V4",
+      "3P162"
     ],
     "internal_name": "V53AP",
     "storage": "256 GB"
@@ -11656,7 +11961,8 @@
       "MFYM4",
       "MFXG4",
       "MFY84",
-      "MG034"
+      "MG034",
+      "3P119"
     ],
     "internal_name": "V54AP",
     "storage": "256 GB"
@@ -11708,7 +12014,8 @@
       "MFYN4",
       "MFXH4",
       "MFY94",
-      "MG044"
+      "MG044",
+      "3P127"
     ],
     "internal_name": "V54AP",
     "storage": "256 GB"
@@ -11760,7 +12067,8 @@
       "MFYP4",
       "MFXJ4",
       "MFYA4",
-      "MG054"
+      "MG054",
+      "3P120"
     ],
     "internal_name": "V54AP",
     "storage": "256 GB"
@@ -11805,11 +12113,84 @@
     "storage": "2 TB"
   },
   {
+    "finish": "White",
+    "identifier": "iPhone18,5",
+    "generation": "iPhone 17e",
+    "models": [
+      "MHRP4",
+      "MHRW4",
+      "MHU54,"
+    ],
+    "internal_name": "V159AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "White",
+    "identifier": "iPhone18,5",
+    "generation": "iPhone 17e",
+    "models": [
+      "MHRT4",
+      "MHU04",
+      "MHU94"
+    ],
+    "internal_name": "V159AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone18,5",
+    "generation": "iPhone 17e",
+    "models": [
+      "MHRN4",
+      "MHRV4",
+      "MHU44"
+    ],
+    "internal_name": "V159AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Black",
+    "identifier": "iPhone18,5",
+    "generation": "iPhone 17e",
+    "models": [
+      "MHRR4",
+      "MHRY4",
+      "MHU74"
+    ],
+    "internal_name": "V159AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPhone18,5",
+    "generation": "iPhone 17e",
+    "models": [
+      "MHRQ4",
+      "MHRX4",
+      "MHU64"
+    ],
+    "internal_name": "V159AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Pink",
+    "identifier": "iPhone18,5",
+    "generation": "iPhone 17e",
+    "models": [
+      "MHRU4",
+      "MHU34",
+      "MHUA4"
+    ],
+    "internal_name": "V159AP",
+    "storage": "512 GB"
+  },
+  {
     "finish": "Black",
     "identifier": "iPad1,1",
     "generation": "iPad",
     "models": [
-      "MB292"
+      "MB292",
+      "MC642"
     ],
     "internal_name": "K48AP",
     "storage": "16 GB"
@@ -12109,7 +12490,8 @@
     "generation": "iPad (3rd generation)",
     "models": [
       "MD328",
-      "MD336"
+      "MD336",
+      "MD332"
     ],
     "internal_name": "J1AP",
     "storage": "16 GB"
@@ -12267,7 +12649,8 @@
     "identifier": "iPad3,4",
     "generation": "iPad (4th generation)",
     "models": [
-      "MD510"
+      "MD510",
+      "MD910"
     ],
     "internal_name": "P101AP",
     "storage": "16 GB"
@@ -12307,7 +12690,8 @@
     "identifier": "iPad3,4",
     "generation": "iPad (4th generation)",
     "models": [
-      "MD513"
+      "MD513",
+      "MD911"
     ],
     "internal_name": "P101AP",
     "storage": "16 GB"
@@ -12558,7 +12942,8 @@
     "identifier": "iPad6,11",
     "generation": "iPad (5th generation)",
     "models": [
-      "MP2F2"
+      "MP2F2",
+      "3C668"
     ],
     "internal_name": "J71sAP",
     "storage": "32 GB"
@@ -12684,7 +13069,8 @@
     "identifier": "iPad7,5",
     "generation": "iPad (6th generation)",
     "models": [
-      "MR7F2"
+      "MR7F2",
+      "3D575"
     ],
     "internal_name": "J71bAP",
     "storage": "32 GB"
@@ -12764,7 +13150,8 @@
     "identifier": "iPad7,11",
     "generation": "iPad (7th generation)",
     "models": [
-      "MW762"
+      "MW762",
+      "3F837"
     ],
     "internal_name": "J171AP",
     "storage": "32 GB"
@@ -12804,7 +13191,8 @@
     "identifier": "iPad7,11",
     "generation": "iPad (7th generation)",
     "models": [
-      "MW742"
+      "MW742",
+      "3F835"
     ],
     "internal_name": "J171AP",
     "storage": "32 GB"
@@ -12896,7 +13284,8 @@
     "identifier": "iPad11,6",
     "generation": "iPad (8th generation)",
     "models": [
-      "MYLC2"
+      "MYLC2",
+      "3YLC2"
     ],
     "internal_name": "J171aAP",
     "storage": "32 GB"
@@ -12916,7 +13305,8 @@
     "identifier": "iPad11,6",
     "generation": "iPad (8th generation)",
     "models": [
-      "MYLA2"
+      "MYLA2",
+      "3YLA2"
     ],
     "internal_name": "J171aAP",
     "storage": "32 GB"
@@ -12936,7 +13326,8 @@
     "identifier": "iPad11,6",
     "generation": "iPad (8th generation)",
     "models": [
-      "MYL92"
+      "MYL92",
+      "3YL92"
     ],
     "internal_name": "J171aAP",
     "storage": "32 GB"
@@ -12979,7 +13370,8 @@
     "generation": "iPad (8th generation)",
     "models": [
       "MYMJ2",
-      "MYN52"
+      "MYN52",
+      "3YMH2"
     ],
     "internal_name": "J172aAP",
     "storage": "32 GB"
@@ -13042,7 +13434,8 @@
     "identifier": "iPad12,1",
     "generation": "iPad (9th generation)",
     "models": [
-      "MK2K3"
+      "MK2K3",
+      "3K2K3"
     ],
     "internal_name": "J181AP",
     "storage": "64 GB"
@@ -13107,7 +13500,8 @@
     "generation": "iPad (10th generation)",
     "models": [
       "MPQ03",
-      "MCM74"
+      "MCM74",
+      "3L203"
     ],
     "internal_name": "J271AP",
     "storage": "64 GB"
@@ -13129,7 +13523,8 @@
     "generation": "iPad (10th generation)",
     "models": [
       "MPQ33",
-      "MCMC4"
+      "MCMC4",
+      "3L210"
     ],
     "internal_name": "J271AP",
     "storage": "64 GB"
@@ -13151,7 +13546,8 @@
     "generation": "iPad (10th generation)",
     "models": [
       "MPQ13",
-      "MCM84"
+      "MCM84",
+      "3L204"
     ],
     "internal_name": "J271AP",
     "storage": "64 GB"
@@ -13173,7 +13569,8 @@
     "generation": "iPad (10th generation)",
     "models": [
       "MPQ23",
-      "MCM94"
+      "MCM94",
+      "3L209"
     ],
     "internal_name": "J271AP",
     "storage": "64 GB"
@@ -13330,7 +13727,8 @@
     "identifier": "iPad13,19",
     "generation": "iPad (10th generation)",
     "models": [
-      "MUU03"
+      "MUU03",
+      "3L296"
     ],
     "internal_name": "J272AP",
     "storage": "64 GB"
@@ -13370,7 +13768,8 @@
     "identifier": "iPad15,7",
     "generation": "iPad (A16)",
     "models": [
-      "MD3Y4"
+      "MD3Y4",
+      "3N674"
     ],
     "internal_name": "J481AP",
     "storage": "128 GB"
@@ -13400,7 +13799,8 @@
     "identifier": "iPad15,7",
     "generation": "iPad (A16)",
     "models": [
-      "MD4E4"
+      "MD4E4",
+      "3N796"
     ],
     "internal_name": "J481AP",
     "storage": "128 GB"
@@ -13430,7 +13830,8 @@
     "identifier": "iPad15,7",
     "generation": "iPad (A16)",
     "models": [
-      "MD4A4"
+      "MD4A4",
+      "3N790"
     ],
     "internal_name": "J481AP",
     "storage": "128 GB"
@@ -13460,7 +13861,8 @@
     "identifier": "iPad15,7",
     "generation": "iPad (A16)",
     "models": [
-      "MD4D4"
+      "MD4D4",
+      "3N795"
     ],
     "internal_name": "J481AP",
     "storage": "128 GB"
@@ -13557,7 +13959,8 @@
     "generation": "iPad (A16)",
     "models": [
       "MD7G4",
-      "MD7V4"
+      "MD7V4",
+      "3N798"
     ],
     "internal_name": "J482AP",
     "storage": "128 GB"
@@ -13894,7 +14297,8 @@
     "identifier": "iPad5,3",
     "generation": "iPad Air 2",
     "models": [
-      "MH0W2"
+      "MH0W2",
+      "3A141"
     ],
     "internal_name": "J81AP",
     "storage": "16 GB"
@@ -14314,7 +14718,8 @@
     "identifier": "iPad13,1",
     "generation": "iPad Air (4th generation)",
     "models": [
-      "MYFM2"
+      "MYFM2",
+      "3H182"
     ],
     "internal_name": "J307AP",
     "storage": "64 GB"
@@ -14354,7 +14759,8 @@
     "identifier": "iPad13,1",
     "generation": "iPad Air (4th generation)",
     "models": [
-      "MYFQ2"
+      "MYFQ2",
+      "3H185"
     ],
     "internal_name": "J307AP",
     "storage": "64 GB"
@@ -14484,7 +14890,8 @@
     "identifier": "iPad13,16",
     "generation": "iPad Air (5th generation)",
     "models": [
-      "MM9C3"
+      "MM9C3",
+      "3M9C3"
     ],
     "internal_name": "J407AP",
     "storage": "64 GB"
@@ -14504,7 +14911,8 @@
     "identifier": "iPad13,16",
     "generation": "iPad Air (5th generation)",
     "models": [
-      "MM9D3"
+      "MM9D3",
+      "3M9D3"
     ],
     "internal_name": "J407AP",
     "storage": "64 GB"
@@ -14544,7 +14952,8 @@
     "identifier": "iPad13,16",
     "generation": "iPad Air (5th generation)",
     "models": [
-      "MM9E3"
+      "MM9E3",
+      "3M9E3"
     ],
     "internal_name": "J407AP",
     "storage": "64 GB"
@@ -14694,7 +15103,8 @@
     "identifier": "iPad14,8",
     "generation": "iPad Air 11-inch (M2)",
     "models": [
-      "MUWC3"
+      "MUWC3",
+      "3M670"
     ],
     "internal_name": "J507AP",
     "storage": "128 GB"
@@ -14734,7 +15144,8 @@
     "identifier": "iPad14,8",
     "generation": "iPad Air 11-inch (M2)",
     "models": [
-      "MUWF3"
+      "MUWF3",
+      "3M673"
     ],
     "internal_name": "J507AP",
     "storage": "128 GB"
@@ -14774,7 +15185,8 @@
     "identifier": "iPad14,8",
     "generation": "iPad Air 11-inch (M2)",
     "models": [
-      "MUWD3"
+      "MUWD3",
+      "3M671"
     ],
     "internal_name": "J507AP",
     "storage": "128 GB"
@@ -14814,7 +15226,8 @@
     "identifier": "iPad14,8",
     "generation": "iPad Air 11-inch (M2)",
     "models": [
-      "MUWE3"
+      "MUWE3",
+      "3M672"
     ],
     "internal_name": "J507AP",
     "storage": "128 GB"
@@ -15014,7 +15427,8 @@
     "identifier": "iPad14,10",
     "generation": "iPad Air 13-inch (M2)",
     "models": [
-      "MV273"
+      "MV273",
+      "3M682"
     ],
     "internal_name": "J537AP",
     "storage": "128 GB"
@@ -15054,7 +15468,8 @@
     "identifier": "iPad14,10",
     "generation": "iPad Air 13-inch (M2)",
     "models": [
-      "MV2C3"
+      "MV2C3",
+      "3M682"
     ],
     "internal_name": "J537AP",
     "storage": "128 GB"
@@ -15094,7 +15509,8 @@
     "identifier": "iPad14,10",
     "generation": "iPad Air 13-inch (M2)",
     "models": [
-      "MV283"
+      "MV283",
+      "3M687"
     ],
     "internal_name": "J537AP",
     "storage": "128 GB"
@@ -15134,7 +15550,8 @@
     "identifier": "iPad14,10",
     "generation": "iPad Air 13-inch (M2)",
     "models": [
-      "MV293"
+      "MV293",
+      "3M688"
     ],
     "internal_name": "J537AP",
     "storage": "128 GB"
@@ -15174,7 +15591,8 @@
     "identifier": "iPad14,11",
     "generation": "iPad Air 13-inch (M2)",
     "models": [
-      "MV6Q3"
+      "MV6Q3",
+      "3M719"
     ],
     "internal_name": "J538AP",
     "storage": "128 GB"
@@ -15334,7 +15752,8 @@
     "identifier": "iPad15,3",
     "generation": "iPad Air 11-inch (M3)",
     "models": [
-      "MC9W4"
+      "MC9W4",
+      "3N674"
     ],
     "internal_name": "J607AP",
     "storage": "128 GB"
@@ -15374,7 +15793,8 @@
     "identifier": "iPad15,3",
     "generation": "iPad Air 11-inch (M3)",
     "models": [
-      "MCA04"
+      "MCA04",
+      "3N673"
     ],
     "internal_name": "J607AP",
     "storage": "128 GB"
@@ -15414,7 +15834,8 @@
     "identifier": "iPad15,3",
     "generation": "iPad Air 11-inch (M3)",
     "models": [
-      "MC9X4"
+      "MC9X4",
+      "3N675"
     ],
     "internal_name": "J607AP",
     "storage": "128 GB"
@@ -15454,7 +15875,8 @@
     "identifier": "iPad15,3",
     "generation": "iPad Air 11-inch (M3)",
     "models": [
-      "MC9Y4"
+      "MC9Y4",
+      "3N676"
     ],
     "internal_name": "J607AP",
     "storage": "128 GB"
@@ -15495,7 +15917,8 @@
     "generation": "iPad Air 11-inch (M3)",
     "models": [
       "MCFV4",
-      "MCGD4"
+      "MCGD4",
+      "3N686"
     ],
     "internal_name": "J608AP",
     "storage": "128 GB"
@@ -15539,7 +15962,8 @@
     "generation": "iPad Air 11-inch (M3)",
     "models": [
       "MCFY4",
-      "MCGG4"
+      "MCGG4",
+      "3N681"
     ],
     "internal_name": "J608AP",
     "storage": "128 GB"
@@ -15670,7 +16094,8 @@
     "identifier": "iPad15,5",
     "generation": "iPad Air 13-inch (M3)",
     "models": [
-      "MCNH4"
+      "MCNH4",
+      "3N727"
     ],
     "internal_name": "J637AP",
     "storage": "128 GB"
@@ -15710,7 +16135,8 @@
     "identifier": "iPad15,5",
     "generation": "iPad Air 13-inch (M3)",
     "models": [
-      "MCNL4"
+      "MCNL4",
+      "3N734"
     ],
     "internal_name": "J637AP",
     "storage": "128 GB"
@@ -15750,7 +16176,8 @@
     "identifier": "iPad15,5",
     "generation": "iPad Air 13-inch (M3)",
     "models": [
-      "MCNJ4"
+      "MCNJ4",
+      "3N732"
     ],
     "internal_name": "J637AP",
     "storage": "128 GB"
@@ -15790,7 +16217,8 @@
     "identifier": "iPad15,5",
     "generation": "iPad Air 13-inch (M3)",
     "models": [
-      "MCNK4"
+      "MCNK4",
+      "3N733"
     ],
     "internal_name": "J637AP",
     "storage": "128 GB"
@@ -15875,7 +16303,8 @@
     "generation": "iPad Air 13-inch (M3)",
     "models": [
       "MCJ44",
-      "MCJM4"
+      "MCJM4",
+      "3N681"
     ],
     "internal_name": "J638AP",
     "storage": "128 GB"
@@ -15999,6 +16428,678 @@
       "MCL24"
     ],
     "internal_name": "J638AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH304"
+    ],
+    "internal_name": "J707AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH354"
+    ],
+    "internal_name": "J707AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH3A4"
+    ],
+    "internal_name": "J707AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH3G4"
+    ],
+    "internal_name": "J707AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH344"
+    ],
+    "internal_name": "J707AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH394"
+    ],
+    "internal_name": "J707AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH3E4"
+    ],
+    "internal_name": "J707AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH3K4"
+    ],
+    "internal_name": "J707AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH314"
+    ],
+    "internal_name": "J707AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH364"
+    ],
+    "internal_name": "J707AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH3C4"
+    ],
+    "internal_name": "J707AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH3H4"
+    ],
+    "internal_name": "J707AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH334"
+    ],
+    "internal_name": "J707AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH374"
+    ],
+    "internal_name": "J707AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH3D4"
+    ],
+    "internal_name": "J707AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,8",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH3J4"
+    ],
+    "internal_name": "J707AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH784",
+      "MH8A4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7D4",
+      "MH8F4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7H4",
+      "MH8K4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7M4",
+      "MH8Q4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7C4",
+      "MH8E4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7G4",
+      "MH8J4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7L4",
+      "MH8P4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7Q4",
+      "MH8U4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH794",
+      "MH8C4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7E4",
+      "MH8G4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7J4",
+      "MH8M4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7N4",
+      "MH8R4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7A4",
+      "MH8D4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7F4",
+      "MH8H4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7K4",
+      "MH8N4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,9",
+    "generation": "iPad Air 11-inch (M4)",
+    "models": [
+      "MH7P4",
+      "MH8T4"
+    ],
+    "internal_name": "J708AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH5N4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH5U4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH5Y4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH634"
+    ],
+    "internal_name": "J737AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH5T4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH5X4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH624"
+    ],
+    "internal_name": "J737AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MHDK4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH5P4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH5V4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH604"
+    ],
+    "internal_name": "J737AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH644"
+    ],
+    "internal_name": "J737AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH5Q4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH5W4"
+    ],
+    "internal_name": "J737AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH614"
+    ],
+    "internal_name": "J737AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,10",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH654"
+    ],
+    "internal_name": "J737AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9D4",
+      "MH9W4"
+    ],
+    "internal_name": "J738AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9H4",
+      "MHC14"
+    ],
+    "internal_name": "J738AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9M4",
+      "MHC54"
+    ],
+    "internal_name": "J738AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Gray",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9R4",
+      "MHC94"
+    ],
+    "internal_name": "J738AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9G4",
+      "MHC04"
+    ],
+    "internal_name": "J738AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9L4",
+      "MHC44"
+    ],
+    "internal_name": "J738AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9Q4",
+      "MHC84"
+    ],
+    "internal_name": "J738AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Purple",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9V4",
+      "MHCD4"
+    ],
+    "internal_name": "J738AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9E4",
+      "MH9X4"
+    ],
+    "internal_name": "J738AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9J4",
+      "MHC24"
+    ],
+    "internal_name": "J738AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9N4",
+      "MHC64"
+    ],
+    "internal_name": "J738AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Blue",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9T4",
+      "MHCA4"
+    ],
+    "internal_name": "J738AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9F4",
+      "MH9Y4"
+    ],
+    "internal_name": "J738AP",
+    "storage": "128 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9K4",
+      "MHC34"
+    ],
+    "internal_name": "J738AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9P4",
+      "MHC74"
+    ],
+    "internal_name": "J738AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Starlight",
+    "identifier": "iPad16,11",
+    "generation": "iPad Air 13-inch (M4)",
+    "models": [
+      "MH9U4",
+      "MHCC4"
+    ],
+    "internal_name": "J738AP",
     "storage": "1 TB"
   },
   {
@@ -16555,7 +17656,8 @@
     "identifier": "iPad7,2",
     "generation": "iPad Pro (12.9-inch) (2nd generation)",
     "models": [
-      "MQED2"
+      "MQED2",
+      "3D126"
     ],
     "internal_name": "J121AP",
     "storage": "64 GB"
@@ -16585,7 +17687,8 @@
     "identifier": "iPad7,3",
     "generation": "iPad Pro (10.5-inch)",
     "models": [
-      "MQDX2"
+      "MQDX2",
+      "3D119"
     ],
     "internal_name": "J207AP",
     "storage": "64 GB"
@@ -16825,7 +17928,8 @@
     "identifier": "iPad8,1",
     "generation": "iPad Pro (11-inch)",
     "models": [
-      "MTXP2"
+      "MTXP2",
+      "3E149"
     ],
     "internal_name": "J317AP",
     "storage": "64 GB"
@@ -16905,7 +18009,8 @@
     "identifier": "iPad8,3",
     "generation": "iPad Pro (11-inch)",
     "models": [
-      "MU0U2"
+      "MU0U2",
+      "3E080"
     ],
     "internal_name": "J318AP",
     "storage": "64 GB"
@@ -17465,7 +18570,8 @@
     "identifier": "iPad8,9",
     "generation": "iPad Pro (11-inch) (2nd generation)",
     "models": [
-      "MY252"
+      "MY252",
+      "3G932"
     ],
     "internal_name": "J417AP",
     "storage": "128 GB"
@@ -17505,7 +18611,8 @@
     "identifier": "iPad8,9",
     "generation": "iPad Pro (11-inch) (2nd generation)",
     "models": [
-      "MY232"
+      "MY232",
+      "3G931"
     ],
     "internal_name": "J417AP",
     "storage": "128 GB"
@@ -17546,7 +18653,8 @@
     "generation": "iPad Pro (11-inch) (2nd generation)",
     "models": [
       "MY2W2",
-      "MY342"
+      "MY342",
+      "3G936"
     ],
     "internal_name": "J418AP",
     "storage": "128 GB"
@@ -17673,7 +18781,8 @@
     "identifier": "iPad8,11",
     "generation": "iPad Pro (12.9-inch) (4th generation)",
     "models": [
-      "MY2H2"
+      "MY2H2",
+      "3G933"
     ],
     "internal_name": "J420AP",
     "storage": "128 GB"
@@ -17801,7 +18910,8 @@
     "identifier": "iPad13,4",
     "generation": "iPad Pro (11-inch) (3rd generation)",
     "models": [
-      "MHQT3"
+      "MHQT3",
+      "3K873"
     ],
     "internal_name": "J517AP",
     "storage": "128 GB"
@@ -17831,7 +18941,8 @@
     "identifier": "iPad13,4",
     "generation": "iPad Pro (11-inch) (3rd generation)",
     "models": [
-      "MHQR3"
+      "MHQR3",
+      "3HQR3"
     ],
     "internal_name": "J517AP",
     "storage": "128 GB"
@@ -17903,7 +19014,8 @@
     "models": [
       "MHMU3",
       "MHW63",
-      "MHWH3"
+      "MHWH3",
+      "3HW63"
     ],
     "internal_name": "J518AP",
     "storage": "128 GB"
@@ -18061,7 +19173,8 @@
     "identifier": "iPad13,8",
     "generation": "iPad Pro (12.9-inch) (5th generation)",
     "models": [
-      "MHNH3"
+      "MHNH3",
+      "3H901"
     ],
     "internal_name": "J522AP",
     "storage": "256 GB"
@@ -18241,7 +19354,8 @@
     "identifier": "iPad14,3",
     "generation": "iPad Pro (11-inch) (4th generation)",
     "models": [
-      "MNXE3"
+      "MNXE3",
+      "3K873"
     ],
     "internal_name": "J617AP",
     "storage": "128 GB"
@@ -18291,7 +19405,8 @@
     "identifier": "iPad14,3",
     "generation": "iPad Pro (11-inch) (4th generation)",
     "models": [
-      "MNXD3"
+      "MNXD3",
+      "3K874"
     ],
     "internal_name": "J617AP",
     "storage": "128 GB"
@@ -18343,7 +19458,8 @@
     "models": [
       "MP563",
       "MNYD3",
-      "MJQJ3"
+      "MJQJ3",
+      "3K909"
     ],
     "internal_name": "J618AP",
     "storage": "128 GB"
@@ -18461,7 +19577,8 @@
     "identifier": "iPad14,5",
     "generation": "iPad Pro (12.9-inch) (6th generation)",
     "models": [
-      "MNXQ3"
+      "MNXQ3",
+      "3K905"
     ],
     "internal_name": "J620AP",
     "storage": "128 GB"
@@ -18511,7 +19628,8 @@
     "identifier": "iPad14,5",
     "generation": "iPad Pro (12.9-inch) (6th generation)",
     "models": [
-      "MNXP3"
+      "MNXP3",
+      "3K904"
     ],
     "internal_name": "J620AP",
     "storage": "128 GB"
@@ -18681,7 +19799,8 @@
     "identifier": "iPad16,3",
     "generation": "iPad Pro 11-inch (M4)",
     "models": [
-      "MVV83"
+      "MVV83",
+      "3M774"
     ],
     "internal_name": "J717AP",
     "storage": "256 GB"
@@ -18741,7 +19860,8 @@
     "identifier": "iPad16,3",
     "generation": "iPad Pro 11-inch (M4)",
     "models": [
-      "MVV93"
+      "MVV93",
+      "3M773"
     ],
     "internal_name": "J717AP",
     "storage": "256 GB"
@@ -18861,7 +19981,8 @@
     "identifier": "iPad16,4",
     "generation": "iPad Pro 11-inch (M4)",
     "models": [
-      "MVW23"
+      "MVW23",
+      "3M777"
     ],
     "internal_name": "J718AP",
     "storage": "256 GB"
@@ -18921,7 +20042,8 @@
     "identifier": "iPad16,5",
     "generation": "iPad Pro 13-inch (M4)",
     "models": [
-      "MVX23"
+      "MVX23",
+      "3M780"
     ],
     "internal_name": "J720AP",
     "storage": "256 GB"
@@ -18951,7 +20073,8 @@
     "identifier": "iPad16,5",
     "generation": "iPad Pro 13-inch (M4)",
     "models": [
-      "MWRF3"
+      "MWRF3",
+      "3N194"
     ],
     "internal_name": "J720AP",
     "storage": "1 TB (nano-texture glass)"
@@ -18981,7 +20104,8 @@
     "identifier": "iPad16,5",
     "generation": "iPad Pro 13-inch (M4)",
     "models": [
-      "MVX33"
+      "MVX33",
+      "3M781"
     ],
     "internal_name": "J720AP",
     "storage": "256 GB"
@@ -19011,7 +20135,8 @@
     "identifier": "iPad16,5",
     "generation": "iPad Pro 13-inch (M4)",
     "models": [
-      "MWRG3"
+      "MWRG3",
+      "3N195"
     ],
     "internal_name": "J720AP",
     "storage": "1 TB (nano-texture glass)"
@@ -19041,7 +20166,8 @@
     "identifier": "iPad16,6",
     "generation": "iPad Pro 13-inch (M4)",
     "models": [
-      "MVXR3"
+      "MVXR3",
+      "3M786"
     ],
     "internal_name": "J721AP",
     "storage": "256 GB"
@@ -19154,6 +20280,515 @@
       "MWT23"
     ],
     "internal_name": "J721AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWK4",
+      "3P002"
+    ],
+    "internal_name": "J817AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWM4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWP4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWR4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWU4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWW4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWL4",
+      "3P006"
+    ],
+    "internal_name": "J817AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWN4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWQ4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWT4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWV4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,1",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "MDWX4"
+    ],
+    "internal_name": "J817AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME2N4",
+      "ME6E4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME2Q4",
+      "ME6G4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME2U4",
+      "ME6J4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME2W4",
+      "ME6L4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME2Y4",
+      "ME6N4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME6C4",
+      "ME6Q4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME2P4",
+      "ME6F4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME2T4",
+      "ME6H4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME2V4",
+      "ME6K4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME2X4",
+      "ME6M4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME6A4",
+      "ME6P4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,2",
+    "generation": "iPad Pro 11-inch (M5)",
+    "models": [
+      "ME6D4",
+      "ME6R4"
+    ],
+    "internal_name": "J818AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYJ4",
+      "3P009"
+    ],
+    "internal_name": "J820AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYL4"
+    ],
+    "internal_name": "J820AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYN4",
+      "3P015"
+    ],
+    "internal_name": "J820AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYQ4"
+    ],
+    "internal_name": "J820AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYT4"
+    ],
+    "internal_name": "J820AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYV4"
+    ],
+    "internal_name": "J820AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYK4",
+      "3P014"
+    ],
+    "internal_name": "J820AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYM4"
+    ],
+    "internal_name": "J820AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYP4"
+    ],
+    "internal_name": "J820AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYR4"
+    ],
+    "internal_name": "J820AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYU4"
+    ],
+    "internal_name": "J820AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,3",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "MDYW4"
+    ],
+    "internal_name": "J820AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME7W4",
+      "ME8Q4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME7Y4",
+      "ME8T4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME8D4",
+      "ME8V4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME8G4",
+      "ME8X4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME8J4",
+      "ME9D4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Space Black",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME8M4",
+      "ME9C4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "2 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME7X4",
+      "ME8Q4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "256 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME8C4",
+      "ME8T4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "512 GB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME8F4",
+      "ME8V4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "1 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME8H4",
+      "ME8X4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "1 TB (nano-texture glass)"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME8K4",
+      "ME9D4"
+    ],
+    "internal_name": "J821AP",
+    "storage": "2 TB"
+  },
+  {
+    "finish": "Silver",
+    "identifier": "iPad17,4",
+    "generation": "iPad Pro 13-inch (M5)",
+    "models": [
+      "ME8N4",
+      "ME9C4"
+    ],
+    "internal_name": "J821AP",
     "storage": "2 TB (nano-texture glass)"
   },
   {
@@ -19399,7 +21034,8 @@
     "identifier": "iPad4,4",
     "generation": "iPad mini 2",
     "models": [
-      "ME276"
+      "ME276",
+      "ME780"
     ],
     "internal_name": "J85AP",
     "storage": "16 GB"
@@ -19913,7 +21549,8 @@
     "identifier": "iPad5,1",
     "generation": "iPad mini 4",
     "models": [
-      "MK6L2"
+      "MK6L2",
+      "3A335"
     ],
     "internal_name": "J96AP",
     "storage": "16 GB"
@@ -20291,7 +21928,8 @@
     "identifier": "iPad14,1",
     "generation": "iPad mini (6th generation)",
     "models": [
-      "MK7M3"
+      "MK7M3",
+      "3J362"
     ],
     "internal_name": "J310AP",
     "storage": "64 GB"
@@ -20331,7 +21969,8 @@
     "identifier": "iPad14,1",
     "generation": "iPad mini (6th generation)",
     "models": [
-      "MK7R3"
+      "MK7R3",
+      "3J366"
     ],
     "internal_name": "J310AP",
     "storage": "64 GB"
@@ -20451,7 +22090,8 @@
     "identifier": "iPad16,1",
     "generation": "iPad mini (A17 Pro)",
     "models": [
-      "MXN63"
+      "MXN63",
+      "3N306"
     ],
     "internal_name": "J410AP",
     "storage": "128 GB"
@@ -20481,7 +22121,8 @@
     "identifier": "iPad16,1",
     "generation": "iPad mini (A17 Pro)",
     "models": [
-      "MXN73"
+      "MXN73",
+      "3N307"
     ],
     "internal_name": "J410AP",
     "storage": "128 GB"
@@ -20511,7 +22152,8 @@
     "identifier": "iPad16,1",
     "generation": "iPad mini (A17 Pro)",
     "models": [
-      "MXN93"
+      "MXN93",
+      "3N305"
     ],
     "internal_name": "J410AP",
     "storage": "128 GB"
@@ -20541,7 +22183,8 @@
     "identifier": "iPad16,1",
     "generation": "iPad mini (A17 Pro)",
     "models": [
-      "MXN83"
+      "MXN83",
+      "3N308"
     ],
     "internal_name": "J410AP",
     "storage": "128 GB"

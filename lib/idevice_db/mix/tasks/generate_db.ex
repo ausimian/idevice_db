@@ -44,8 +44,11 @@ defmodule Mix.Tasks.GenerateDb do
       |> Enum.drop(1)
       |> Enum.chunk_every(2)
       |> Enum.find(fn
-        [{"h2", _, [{"span", _, _}, {"span", attrs, _}]}, {"section", _, _}] ->
-          Enum.any?(attrs, &match?({"id", ^span_id}, &1))
+        [{"div", _, _} = heading, {"section", _, _}] ->
+          case Floki.find(heading, "h2") do
+            [{"h2", attrs, _}] -> Enum.any?(attrs, &match?({"id", ^span_id}, &1))
+            _ -> false
+          end
 
         _ ->
           false

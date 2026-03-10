@@ -111,7 +111,7 @@ defmodule IDeviceDb do
           finish: "Black",
           identifier: "iPhone1,1",
           generation: "iPhone",
-          models: ["MA501"],
+          models: ["MA501", "MB213"],
           internal_name: "M68AP",
           storage: "4 GB",
           family: :iPhone
