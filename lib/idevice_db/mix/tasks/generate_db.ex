@@ -72,16 +72,23 @@ defmodule Mix.Tasks.GenerateDb do
     models = List.first(maybe_models, {"", 0}) |> elem(0)
 
     %{
-      generation: generation,
-      internal_name: internal_name,
-      identifier: identifier,
-      finish: tweak_finish(finish),
-      storage: storage,
-      models:
-        models
-        |> String.trim_trailing(",")
-        |> String.split(", ", trim: true)
+      generation: first_line(generation),
+      internal_name: first_line(internal_name),
+      identifier: first_line(identifier),
+      finish: tweak_finish(first_line(finish)),
+      storage: first_line(storage),
+      models: split_models(models)
     }
+  end
+
+  # Cells that list several values (e.g. two internal names) keep only the first.
+  defp first_line(text), do: text |> String.split("\n") |> List.first() |> String.trim()
+
+  defp split_models(models) do
+    models
+    |> String.split([",", "\n"], trim: true)
+    |> Enum.map(&String.trim/1)
+    |> Enum.reject(&(&1 == ""))
   end
 
   defp tweak_finish("PRODUCT(RED)"), do: "Red"
@@ -124,14 +131,12 @@ defmodule Mix.Tasks.GenerateDb do
   defp dec_rowspans(row), do: Enum.map(row, fn {k, v} -> {k, v - 1} end)
 
   defp rowspans(cells) do
-    for {"td", attrs, [child | _]} <- cells, do: rowspan(child, attrs)
+    for {"td", attrs, children} <- cells, do: rowspan(children, attrs)
   end
 
-  defp rowspan({"a", _, [text | _]}, attrs), do: rowspan(text, attrs)
-
-  defp rowspan(text, attrs) when is_binary(text) do
+  defp rowspan(children, attrs) do
     {
-      String.trim(text),
+      children |> Enum.reject(&match?({"sup", _, _}, &1)) |> Floki.text() |> String.trim(),
       String.to_integer(elem(List.keyfind(attrs, "rowspan", 0, {"rowspan", "1"}), 1))
     }
   end
