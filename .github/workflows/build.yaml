@@ -11,36 +11,113 @@ on:
       - '*'
 
 jobs:
-  build:
-    name: Build
+  test:
+    name: Test (Elixir ${{ matrix.elixir }} / OTP ${{ matrix.otp }})
     runs-on: ubuntu-latest
-    env:
-      MIX_ENV: prod
     strategy:
+      fail-fast: false
       matrix:
-        elixir: [ '1.15.8', '1.16.3', '1.17.3', '1.18.2' ]
-        otp: [ '27.2',  '26.2']
+        elixir: [ '1.18', '1.19', '1.20' ]
+        otp: [ '27', '28', '29' ]
         exclude:
-          - elixir: '1.15.8'
-            otp: '27.2'
-          - elixir: '1.16.3'
-            otp: '27.2'
+          # Elixir 1.18 supports OTP 25-27
+          - elixir: '1.18'
+            otp: '28'
+          - elixir: '1.18'
+            otp: '29'
+          # Elixir 1.19 supports OTP 26-28
+          - elixir: '1.19'
+            otp: '29'
 
     steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
     - name: Setup Elixir
-      uses: erlef/setup-elixir@v1
+      uses: erlef/setup-beam@v1
       with:
         elixir-version: ${{ matrix.elixir }}
         otp-version: ${{ matrix.otp }}
 
-    - name: Checkout code
-      uses: actions/checkout@v4
+    - name: Restore dependency cache
+      uses: actions/cache@v4
+      with:
+        path: |
+          deps
+          _build
+        key: ${{ runner.os }}-mix-${{ matrix.elixir }}-${{ matrix.otp }}-${{ hashFiles('mix.lock') }}
+        restore-keys: ${{ runner.os }}-mix-${{ matrix.elixir }}-${{ matrix.otp }}-
 
     - name: Install dependencies
-      run: mix deps.get --only prod
+      run: mix deps.get
 
     - name: Compile
       run: mix compile
 
     - name: Run tests
       run: mix test
+
+    - name: Compile for production
+      env:
+        MIX_ENV: prod
+      run: mix deps.get --only prod && mix compile
+
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    env:
+      MIX_ENV: test
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Elixir
+      uses: erlef/setup-beam@v1
+      with:
+        elixir-version: '1.19.5'
+        otp-version: '28.3'
+
+    - name: Install dependencies
+      run: mix deps.get
+
+    - name: Check formatting
+      run: mix format --check-formatted
+
+    - name: Check for unused dependencies
+      run: mix deps.unlock --check-unused
+
+    - name: Run Credo
+      run: mix credo --strict
+
+  publish:
+    name: Publish to Hex
+    if: startsWith(github.ref, 'refs/tags/')
+    needs: [ test, lint ]
+    runs-on: ubuntu-latest
+    env:
+      HEX_API_KEY: ${{ secrets.HEX_API_KEY }}
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Elixir
+      uses: erlef/setup-beam@v1
+      with:
+        elixir-version: '1.19.5'
+        otp-version: '28.3'
+
+    - name: Check the tag matches the project version
+      run: |
+        version=$(sed -n 's/^  @version "\(.*\)"$/\1/p' mix.exs)
+        if [ "$version" != "${GITHUB_REF_NAME}" ]; then
+          echo "tag ${GITHUB_REF_NAME} does not match @version ${version} in mix.exs" >&2
+          exit 1
+        fi
+
+    # Runs in the dev environment so that ex_doc is available and the package
+    # docs are published alongside the release.
+    - name: Install dependencies
+      run: mix deps.get
+
+    - name: Publish
+      run: mix hex.publish --yes
