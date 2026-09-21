@@ -85,6 +85,8 @@ defmodule Mix.Tasks.GenerateDb do
   end
 
   defp tweak_finish("PRODUCT(RED)"), do: "Red"
+  defp tweak_finish("(PRODUCT)RED"), do: "Red"
+  defp tweak_finish("(PRODUCT)Red"), do: "Red"
   defp tweak_finish(finish), do: finish
 
   defp group_by_generation(table_rows), do: group_by_generation(table_rows, [])
