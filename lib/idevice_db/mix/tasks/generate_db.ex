@@ -38,13 +38,11 @@ defmodule Mix.Tasks.GenerateDb do
   end
 
   defp get_table_rows(content, span_id) do
-    [_, {"section", _, [{"table", _, [{"tbody", _, table_rows}]} | _]}] =
+    [{"table", _, [{"tbody", _, table_rows} | _]} | _] =
       content
       |> Floki.children()
-      |> Enum.drop(1)
-      |> Enum.chunk_every(2)
       |> Enum.find(fn
-        [{"div", _, _} = heading, {"section", _, _}] ->
+        {"section", _, [heading | _]} ->
           case Floki.find(heading, "h2") do
             [{"h2", attrs, _}] -> Enum.any?(attrs, &match?({"id", ^span_id}, &1))
             _ -> false
@@ -53,6 +51,8 @@ defmodule Mix.Tasks.GenerateDb do
         _ ->
           false
       end)
+      |> Floki.children()
+      |> Enum.filter(&match?({"table", _, _}, &1))
 
     table_rows
   end
