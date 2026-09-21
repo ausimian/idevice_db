@@ -111,7 +111,7 @@ defmodule IDeviceDb do
           finish: "Black",
           identifier: "iPhone1,1",
           generation: "iPhone",
-          models: ["MA501", "MB213"],
+          models: ["MA501", "MB213", "MB340", "MB342", "MB344"],
           internal_name: "M68AP",
           storage: "4 GB",
           family: :iPhone
@@ -131,7 +131,7 @@ defmodule IDeviceDb do
         finish: "Space Gray",
         identifier: "iPhone10,1",
         generation: "iPhone 8",
-        models: ["MX132"],
+        models: ["MX0W2", "MX102", "MX132", "MX1D2"],
         internal_name: "D20AP",
         storage: "128 GB",
         family: :iPhone
