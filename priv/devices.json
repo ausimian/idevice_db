@@ -8730,7 +8730,8 @@
     "models": [
       "MLVK3",
       "MLTY3",
-      "MLTH3"
+      "MLTH3",
+      "MLUQ3"
     ],
     "internal_name": "D63AP",
     "storage": "256 GB"
@@ -12615,7 +12616,9 @@
       "MJRQ4",
       "MJQ44",
       "MJR64",
-      "MJT84"
+      "MJT84",
+      "3P959",
+      "3P834"
     ],
     "internal_name": "V63AP",
     "storage": "256 GB"
@@ -12667,7 +12670,9 @@
       "MJRP4",
       "MJQ34",
       "MJR54",
-      "MJT74"
+      "MJT74",
+      "3P958",
+      "3P833"
     ],
     "internal_name": "V63AP",
     "storage": "256 GB"
@@ -12719,7 +12724,9 @@
       "MJRT4",
       "MJQ64",
       "MJR84",
-      "MJTA4"
+      "MJTA4",
+      "3P961",
+      "3P836"
     ],
     "internal_name": "V63AP",
     "storage": "256 GB"
@@ -12771,7 +12778,10 @@
       "MJRR4",
       "MJQ54",
       "MJR74",
-      "MJT94"
+      "MJT94",
+      "3P835",
+      "3P956",
+      "3P960"
     ],
     "internal_name": "V63AP",
     "storage": "256 GB"
@@ -12820,7 +12830,8 @@
     "identifier": "iPhone19,3",
     "generation": "iPhone 18 Pro Max",
     "models": [
-      "MJW54"
+      "MJW54",
+      "3P854"
     ],
     "internal_name": "V64AP",
     "storage": "256 GB"
@@ -12860,7 +12871,8 @@
     "identifier": "iPhone19,3",
     "generation": "iPhone 18 Pro Max",
     "models": [
-      "MJW44"
+      "MJW44",
+      "3P853"
     ],
     "internal_name": "V64AP",
     "storage": "256 GB"
@@ -12900,7 +12912,8 @@
     "identifier": "iPhone19,3",
     "generation": "iPhone 18 Pro Max",
     "models": [
-      "MJW74"
+      "MJW74",
+      "3P856"
     ],
     "internal_name": "V64AP",
     "storage": "256 GB"
@@ -12940,7 +12953,8 @@
     "identifier": "iPhone19,3",
     "generation": "iPhone 18 Pro Max",
     "models": [
-      "MJW64"
+      "MJW64",
+      "3P855"
     ],
     "internal_name": "V64AP",
     "storage": "256 GB"
@@ -12982,7 +12996,8 @@
     "models": [
       "MJXP4",
       "MJX64",
-      "MJY74"
+      "MJY74",
+      "3P862"
     ],
     "internal_name": "V64sAP",
     "storage": "256 GB"
@@ -13030,7 +13045,8 @@
     "models": [
       "MJXN4",
       "MJX54",
-      "MJY64"
+      "MJY64",
+      "3P861"
     ],
     "internal_name": "V64sAP",
     "storage": "256 GB"
@@ -13078,7 +13094,9 @@
     "models": [
       "MJXR4",
       "MJX84",
-      "MJY94"
+      "MJY94",
+      "3P860",
+      "3P864"
     ],
     "internal_name": "V64sAP",
     "storage": "256 GB"
@@ -13126,7 +13144,8 @@
     "models": [
       "MJXQ4",
       "MJX74",
-      "MJY84"
+      "MJY84",
+      "3P863"
     ],
     "internal_name": "V64sAP",
     "storage": "256 GB"
@@ -17243,6 +17262,7 @@
     "generation": "iPad Air 13-inch (M3)",
     "models": [
       "MCNL4",
+      "3N730",
       "3N734"
     ],
     "internal_name": "J637AP",
@@ -17325,7 +17345,8 @@
     "generation": "iPad Air 13-inch (M3)",
     "models": [
       "MCNK4",
-      "3N733"
+      "3N733",
+      "3N672"
     ],
     "internal_name": "J637AP",
     "storage": "128 GB"
