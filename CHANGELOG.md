@@ -2,6 +2,13 @@
 
 <!-- %% CHANGELOG_ENTRIES %% -->
 
+## 1.5.0 - 2026-10-22
+
+### Fixed
+
+- Missing model codes for iPhone 18 Pro, iPhone 18 Pro Max, an older
+  iPhone (D63AP) and iPad Air 13-inch (M3), picked up from The Apple Wiki.
+
 ## 1.4.0 - 2026-09-21
 
 ### Added
